@@ -3,6 +3,9 @@ __pycache__/
 *.pth
 *.pt
 *.ckpt
+*.pkl
+*.npz
+*.safetensors
 checkpoints/
 *.egg-info/
 dist/
