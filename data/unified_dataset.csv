@@ -1,0 +1,693 @@
+word_id,lesson_id,lesson_num,type,audio_id,arabic_text,transliteration,audio_path,sub_type,base_letter,duration_s
+QUAIDA_00001,L1_QUAIDA_01,1,alphabet,01_001,ا,Alif,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_001.wav,,,1.811
+QUAIDA_00002,L1_QUAIDA_01,1,alphabet,01_002,ب,Ba,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_002.wav,,,1.765
+QUAIDA_00003,L1_QUAIDA_01,1,alphabet,01_003,ت,Ta,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_003.wav,,,2.043
+QUAIDA_00004,L1_QUAIDA_01,1,alphabet,01_004,ث,Tha,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_004.wav,,,1.834
+QUAIDA_00005,L1_QUAIDA_01,1,alphabet,01_005,ج,Jeem,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_005.wav,,,2.415
+QUAIDA_00006,L1_QUAIDA_01,1,alphabet,01_006,ح,Haa (deep H),C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_006.wav,,,1.927
+QUAIDA_00007,L1_QUAIDA_01,1,alphabet,01_007,خ,Khaa,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_007.wav,,,1.927
+QUAIDA_00008,L1_QUAIDA_01,1,alphabet,01_008,د,Daal,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_008.wav,,,1.672
+QUAIDA_00009,L1_QUAIDA_01,1,alphabet,01_009,ذ,zhaal,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_009.wav,,,2.043
+QUAIDA_00010,L1_QUAIDA_01,1,alphabet,01_010,ر,ra,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_010.wav,,,1.463
+QUAIDA_00011,L1_QUAIDA_01,1,alphabet,01_011,ز,za,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_011.wav,,,1.3
+QUAIDA_00012,L1_QUAIDA_01,1,alphabet,01_012,س,Seen,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_012.wav,,,1.602
+QUAIDA_00013,L1_QUAIDA_01,1,alphabet,01_013,ش,Sheen,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_013.wav,,,2.113
+QUAIDA_00014,L1_QUAIDA_01,1,alphabet,01_014,ص,Sad,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_014.wav,,,1.765
+QUAIDA_00015,L1_QUAIDA_01,1,alphabet,01_015,ض,Dhaad,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_015.wav,,,2.02
+QUAIDA_00016,L1_QUAIDA_01,1,alphabet,01_016,ط,Ta,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_016.wav,,,1.858
+QUAIDA_00017,L1_QUAIDA_01,1,alphabet,01_017,ظ,Zha,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_017.wav,,,1.95
+QUAIDA_00018,L1_QUAIDA_01,1,alphabet,01_018,ع,Ain,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_018.wav,,,1.974
+QUAIDA_00019,L1_QUAIDA_01,1,alphabet,01_019,غ,Ghain,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_019.wav,,,2.113
+QUAIDA_00020,L1_QUAIDA_01,1,alphabet,01_020,ف,Fa,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_020.wav,,,1.602
+QUAIDA_00021,L1_QUAIDA_01,1,alphabet,01_021,ق,Qaaf,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_021.wav,,,1.95
+QUAIDA_00022,L1_QUAIDA_01,1,alphabet,01_022,ك,Kaaf,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_022.wav,,,1.858
+QUAIDA_00023,L1_QUAIDA_01,1,alphabet,01_023,ل,Laam,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_023.wav,,,1.579
+QUAIDA_00024,L1_QUAIDA_01,1,alphabet,01_024,م,Meem,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_024.wav,,,2.09
+QUAIDA_00025,L1_QUAIDA_01,1,alphabet,01_025,ن,Noon,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_025.wav,,,2.206
+QUAIDA_00026,L1_QUAIDA_01,1,alphabet,01_026,و,Waw,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_026.wav,,,1.741
+QUAIDA_00027,L1_QUAIDA_01,1,alphabet,01_027,ه,Ha,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_027.wav,,,1.858
+QUAIDA_00028,L1_QUAIDA_01,1,alphabet,01_028,ء,Hamza,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_028.wav,,,1.858
+QUAIDA_00029,L1_QUAIDA_01,1,alphabet,01_029,ي,Ya,C:/Users/PC/Desktop/Qaida_audios/1_Finalized quaida alphabet/01_029.wav,,,1.811
+QUAIDA_00030,L2_QUAIDA_02,2,shapes,02_001,لح,lam-ha,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_001.wav,,,2.531
+QUAIDA_00031,L2_QUAIDA_02,2,shapes,02_002,با,ba-alif,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_002.wav,,,2.229
+QUAIDA_00032,L2_QUAIDA_02,2,shapes,02_003,لا,laam-alif,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_003.wav,,,2.531
+QUAIDA_00033,L2_QUAIDA_02,2,shapes,02_004,کا,kaaf-alif,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_004.wav,,,2.763
+QUAIDA_00034,L2_QUAIDA_02,2,shapes,02_005,کب,kaaf-ba,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_005.wav,,,2.856
+QUAIDA_00035,L2_QUAIDA_02,2,shapes,02_006,بلب,ba-laam-ba,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_006.wav,,,3.344
+QUAIDA_00036,L2_QUAIDA_02,2,shapes,02_007,تا,ta-alif,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_007.wav,,,2.392
+QUAIDA_00037,L2_QUAIDA_02,2,shapes,02_008,تکث,ta-kaf-tha,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_008.wav,,,3.46
+QUAIDA_00038,L2_QUAIDA_02,2,shapes,02_009,بکت,ba-kaaf-ta,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_009.wav,,,3.204
+QUAIDA_00039,L2_QUAIDA_02,2,shapes,02_010,بس,ba-seen,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_010.wav,,,2.763
+QUAIDA_00040,L2_QUAIDA_02,2,shapes,02_011,ثا,tha-alif,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_011.wav,,,2.159
+QUAIDA_00041,L2_QUAIDA_02,2,shapes,02_012,یا,ya-alif,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_012.wav,,,2.531
+QUAIDA_00042,L2_QUAIDA_02,2,shapes,02_013,تس,ta-seen,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_013.wav,,,3.158
+QUAIDA_00043,L2_QUAIDA_02,2,shapes,02_014,نس,noon-seen,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_014.wav,,,3.204
+QUAIDA_00044,L2_QUAIDA_02,2,shapes,02_015,یس,ya-seen,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_015.wav,,,2.763
+QUAIDA_00045,L2_QUAIDA_02,2,shapes,02_016,تح,ta-Ha,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_016.wav,,,2.902
+QUAIDA_00046,L2_QUAIDA_02,2,shapes,02_017,ثج,tha-jeem,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_017.wav,,,3.181
+QUAIDA_00047,L2_QUAIDA_02,2,shapes,02_018,ثس,tha-seen,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_018.wav,,,3.344
+QUAIDA_00048,L2_QUAIDA_02,2,shapes,02_019,بج,ba-jeem,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_019.wav,,,2.972
+QUAIDA_00049,L2_QUAIDA_02,2,shapes,02_020,یح,ya-Ha,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_020.wav,,,2.902
+QUAIDA_00050,L2_QUAIDA_02,2,shapes,02_021,نخ,noon-kha,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_021.wav,,,3.413
+QUAIDA_00051,L2_QUAIDA_02,2,shapes,02_022,نم,noon-meem,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_022.wav,,,3.39
+QUAIDA_00052,L2_QUAIDA_02,2,shapes,02_023,بم,ba-meem,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_023.wav,,,2.717
+QUAIDA_00053,L2_QUAIDA_02,2,shapes,02_024,یم,ya-meem,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_024.wav,,,2.856
+QUAIDA_00054,L2_QUAIDA_02,2,shapes,02_025,بی,ba-ya,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_025.wav,,,2.647
+QUAIDA_00055,L2_QUAIDA_02,2,shapes,02_026,ثم,tha-meem,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_026.wav,,,3.042
+QUAIDA_00056,L2_QUAIDA_02,2,shapes,02_027,تم,ta-meem,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_027.wav,,,2.995
+QUAIDA_00057,L2_QUAIDA_02,2,shapes,02_028,تی,ta-ya,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_028.wav,,,2.949
+QUAIDA_00058,L2_QUAIDA_02,2,shapes,02_029,نی,noon-ya,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_029.wav,,,3.228
+QUAIDA_00059,L2_QUAIDA_02,2,shapes,02_030,یی,ya-ya,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_030.wav,,,2.717
+QUAIDA_00060,L2_QUAIDA_02,2,shapes,02_031,تنل,ta-noon-lam,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_031.wav,,,3.971
+QUAIDA_00061,L2_QUAIDA_02,2,shapes,02_032,نبل,noon-ba-lam,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_032.wav,,,3.762
+QUAIDA_00062,L2_QUAIDA_02,2,shapes,02_033,ثی,tha-ya,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_033.wav,,,2.81
+QUAIDA_00063,L2_QUAIDA_02,2,shapes,02_034,ثثل,tha-tha-lam,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_034.wav,,,3.855
+QUAIDA_00064,L2_QUAIDA_02,2,shapes,02_035,یتل,ya-ta-lam,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_035.wav,,,3.622
+QUAIDA_00065,L2_QUAIDA_02,2,shapes,02_036,بیل,ba-ya-lam,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_036.wav,,,3.367
+QUAIDA_00066,L2_QUAIDA_02,2,shapes,02_037,تین,ta-ya-noon,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_037.wav,,,3.622
+QUAIDA_00067,L2_QUAIDA_02,2,shapes,02_038,بنن,ba-noon-noon,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_038.wav,,,3.39
+QUAIDA_00068,L2_QUAIDA_02,2,shapes,02_039,نبن,noon-ba-noon,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_039.wav,,,3.669
+QUAIDA_00069,L2_QUAIDA_02,2,shapes,02_040,حث,ha-tha,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_040.wav,,,2.786
+QUAIDA_00070,L2_QUAIDA_02,2,shapes,02_041,ثثن,tha-tha-noon,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_041.wav,,,3.529
+QUAIDA_00071,L2_QUAIDA_02,2,shapes,02_042,یتن,ya-ta-noon,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_042.wav,,,3.32
+QUAIDA_00072,L2_QUAIDA_02,2,shapes,02_043,تحت,ta-Ha-ta,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_043.wav,,,3.413
+QUAIDA_00073,L2_QUAIDA_02,2,shapes,02_044,جت,jeem-ta,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_044.wav,,,2.577
+QUAIDA_00074,L2_QUAIDA_02,2,shapes,02_045,خب,kha-ba,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_045.wav,,,2.531
+QUAIDA_00075,L2_QUAIDA_02,2,shapes,02_046,ة,ta,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_046.wav,,,1.741
+QUAIDA_00076,L2_QUAIDA_02,2,shapes,02_047,بخت,ba-kha-ta,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_047.wav,,,3.181
+QUAIDA_00077,L2_QUAIDA_02,2,shapes,02_048,یجب,ya-jeem-ba,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_048.wav,,,3.437
+QUAIDA_00078,L2_QUAIDA_02,2,shapes,02_049,ته,ta-ha,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_049.wav,,,2.624
+QUAIDA_00079,L2_QUAIDA_02,2,shapes,02_050,یه,ya-ha,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_050.wav,,,2.531
+QUAIDA_00080,L2_QUAIDA_02,2,shapes,02_051,بة,ba-ta,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_051.wav,,,2.717
+QUAIDA_00081,L2_QUAIDA_02,2,shapes,02_052,يهب,ya-ha-ba,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_052.wav,,,3.762
+QUAIDA_00082,L2_QUAIDA_02,2,shapes,02_053,ھ,ha,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_053.wav,,,1.811
+QUAIDA_00083,L2_QUAIDA_02,2,shapes,02_054,نة,noon-ta,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_054.wav,,,2.786
+QUAIDA_00084,L2_QUAIDA_02,2,shapes,02_055,جد,jeem-daal,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_055.wav,,,2.879
+QUAIDA_00085,L2_QUAIDA_02,2,shapes,02_056,بهم,ba-ha-meem,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_056.wav,,,3.669
+QUAIDA_00086,L2_QUAIDA_02,2,shapes,02_057,بها,ba-ha-alif,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_057.wav,,,3.274
+QUAIDA_00087,L2_QUAIDA_02,2,shapes,02_058,خز,kha-za,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_058.wav,,,2.786
+QUAIDA_00088,L2_QUAIDA_02,2,shapes,02_059,جر,jeem-ra,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_059.wav,,,2.531
+QUAIDA_00089,L2_QUAIDA_02,2,shapes,02_060,خذ,kha-Zhal,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_060.wav,,,2.902
+QUAIDA_00090,L2_QUAIDA_02,2,shapes,02_061,سل,seen-laam,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_061.wav,,,3.367
+QUAIDA_00091,L2_QUAIDA_02,2,shapes,02_062,تز,ta-za,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_062.wav,,,2.74
+QUAIDA_00092,L2_QUAIDA_02,2,shapes,02_063,یر,ya-ra,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_063.wav,,,2.879
+QUAIDA_00093,L2_QUAIDA_02,2,shapes,02_064,طب,ta-ba,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_064.wav,,,2.508
+QUAIDA_00094,L2_QUAIDA_02,2,shapes,02_065,صب,saad-ba,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_065.wav,,,2.856
+QUAIDA_00095,L2_QUAIDA_02,2,shapes,02_066,شل,sheen-laam,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_066.wav,,,3.855
+QUAIDA_00096,L2_QUAIDA_02,2,shapes,02_067,غر,ghain-ra,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_067.wav,,,2.949
+QUAIDA_00097,L2_QUAIDA_02,2,shapes,02_068,عز,ain-za,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_068.wav,,,2.995
+QUAIDA_00098,L2_QUAIDA_02,2,shapes,02_069,ضا,dhaad-alif,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_069.wav,,,2.322
+QUAIDA_00099,L2_QUAIDA_02,2,shapes,02_070,بعد,ba-ain-daal,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_070.wav,,,3.738
+QUAIDA_00100,L2_QUAIDA_02,2,shapes,02_071,ضغ,dhaad-ghain,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_071.wav,,,3.042
+QUAIDA_00101,L2_QUAIDA_02,2,shapes,02_072,صع,Saad-ain,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_072.wav,,,2.972
+QUAIDA_00102,L2_QUAIDA_02,2,shapes,02_073,ئ,hamza,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_073.wav,,,1.974
+QUAIDA_00103,L2_QUAIDA_02,2,shapes,02_074,ؤ,hamza,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_074.wav,,,2.229
+QUAIDA_00104,L2_QUAIDA_02,2,shapes,02_075,تغذ,ta-ghain-zhal,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_075.wav,,,3.808
+QUAIDA_00105,L2_QUAIDA_02,2,shapes,02_076,فقل,fa-qaaf-laam,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_076.wav,,,3.529
+QUAIDA_00106,L2_QUAIDA_02,2,shapes,02_077,فو,fa-waaw,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_077.wav,,,2.415
+QUAIDA_00107,L2_QUAIDA_02,2,shapes,02_078,قو,qaaf-waaw,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_078.wav,,,2.438
+QUAIDA_00108,L2_QUAIDA_02,2,shapes,02_079,حم,ha-meem,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_079.wav,,,2.786
+QUAIDA_00109,L2_QUAIDA_02,2,shapes,02_080,یف,ya-fa,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_080.wav,,,2.531
+QUAIDA_00110,L2_QUAIDA_02,2,shapes,02_081,قفل,qaaf-fa-laam,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_081.wav,,,3.228
+QUAIDA_00111,L2_QUAIDA_02,2,shapes,02_082,تمت,ta-meem-ta,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_082.wav,,,2.786
+QUAIDA_00112,L2_QUAIDA_02,2,shapes,02_083,لم,laam-meem,C:/Users/PC/Desktop/Qaida_audios/2_alphabet_shapes_final.xlsx/02_083.wav,,,2.926
+QUAIDA_00113,L3_QUAIDA_03,3,harakat,03_001,اَ,a,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_001.wav,harakat,ا,1.161
+QUAIDA_00114,L3_QUAIDA_03,3,harakat,03_002,اِ,ie,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_002.wav,harakat,ا,0.813
+QUAIDA_00115,L3_QUAIDA_03,3,harakat,03_003,اُ,Uu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_003.wav,harakat,ا,0.882
+QUAIDA_00116,L3_QUAIDA_03,3,harakat,03_004,بَ,ba,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_004.wav,harakat,ب,1.045
+QUAIDA_00117,L3_QUAIDA_03,3,harakat,03_005,بِ,bi,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_005.wav,harakat,ب,1.277
+QUAIDA_00118,L3_QUAIDA_03,3,harakat,03_006,بُ,bu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_006.wav,harakat,ب,1.045
+QUAIDA_00119,L3_QUAIDA_03,3,harakat,03_007,تَ,ta,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_007.wav,harakat,ت,1.045
+QUAIDA_00120,L3_QUAIDA_03,3,harakat,03_008,تِ,ti,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_008.wav,harakat,ت,1.091
+QUAIDA_00121,L3_QUAIDA_03,3,harakat,03_009,تُ,tu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_009.wav,harakat,ت,1.045
+QUAIDA_00122,L3_QUAIDA_03,3,harakat,03_010,ثَ,tha,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_010.wav,harakat,ث,1.045
+QUAIDA_00123,L3_QUAIDA_03,3,harakat,03_011,ثِ,thi,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_011.wav,harakat,ث,1.207
+QUAIDA_00124,L3_QUAIDA_03,3,harakat,03_012,ثُ,thu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_012.wav,harakat,ث,1.022
+QUAIDA_00125,L3_QUAIDA_03,3,harakat,03_013,جَ,ja,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_013.wav,harakat,ج,1.091
+QUAIDA_00126,L3_QUAIDA_03,3,harakat,03_014,جِ,ji,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_014.wav,harakat,ج,1.068
+QUAIDA_00127,L3_QUAIDA_03,3,harakat,03_015,جُ,ju,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_015.wav,harakat,ج,1.277
+QUAIDA_00128,L3_QUAIDA_03,3,harakat,03_016,حَ,ha,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_016.wav,harakat,ح,1.161
+QUAIDA_00129,L3_QUAIDA_03,3,harakat,03_017,حِ,hi,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_017.wav,harakat,ح,1.231
+QUAIDA_00130,L3_QUAIDA_03,3,harakat,03_018,حُ,hu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_018.wav,harakat,ح,1.138
+QUAIDA_00131,L3_QUAIDA_03,3,harakat,03_019,خَ,kha,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_019.wav,harakat,خ,1.231
+QUAIDA_00132,L3_QUAIDA_03,3,harakat,03_020,خِ,khi,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_020.wav,harakat,خ,1.138
+QUAIDA_00133,L3_QUAIDA_03,3,harakat,03_021,خُ,khu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_021.wav,harakat,خ,1.068
+QUAIDA_00134,L3_QUAIDA_03,3,harakat,03_022,دَ,da,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_022.wav,harakat,د,1.068
+QUAIDA_00135,L3_QUAIDA_03,3,harakat,03_023,دِ,di,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_023.wav,harakat,د,1.138
+QUAIDA_00136,L3_QUAIDA_03,3,harakat,03_024,دُ,du,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_024.wav,harakat,د,0.998
+QUAIDA_00137,L3_QUAIDA_03,3,harakat,03_025,ذَ,zha,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_025.wav,harakat,ذ,1.115
+QUAIDA_00138,L3_QUAIDA_03,3,harakat,03_026,ذِ,zhi,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_026.wav,harakat,ذ,0.975
+QUAIDA_00139,L3_QUAIDA_03,3,harakat,03_027,ذُ,zhu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_027.wav,harakat,ذ,1.022
+QUAIDA_00140,L3_QUAIDA_03,3,harakat,03_028,رَ,ra,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_028.wav,harakat,ر,1.115
+QUAIDA_00141,L3_QUAIDA_03,3,harakat,03_029,رِ,ri,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_029.wav,harakat,ر,1.207
+QUAIDA_00142,L3_QUAIDA_03,3,harakat,03_030,رُ,ru,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_030.wav,harakat,ر,1.138
+QUAIDA_00143,L3_QUAIDA_03,3,harakat,03_031,زَ,za,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_031.wav,harakat,ز,1.045
+QUAIDA_00144,L3_QUAIDA_03,3,harakat,03_032,زِ,zi,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_032.wav,harakat,ز,1.254
+QUAIDA_00145,L3_QUAIDA_03,3,harakat,03_033,زُ,zu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_033.wav,harakat,ز,1.091
+QUAIDA_00146,L3_QUAIDA_03,3,harakat,03_034,سَ,sa,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_034.wav,harakat,س,1.115
+QUAIDA_00147,L3_QUAIDA_03,3,harakat,03_035,سِ,si,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_035.wav,harakat,س,1.022
+QUAIDA_00148,L3_QUAIDA_03,3,harakat,03_036,سِ,si,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_036.wav,harakat,س,1.231
+QUAIDA_00149,L3_QUAIDA_03,3,harakat,03_037,شَ,sha,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_037.wav,harakat,ش,1.161
+QUAIDA_00150,L3_QUAIDA_03,3,harakat,03_038,شِ,shi,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_038.wav,harakat,ش,1.277
+QUAIDA_00151,L3_QUAIDA_03,3,harakat,03_039,شُ,shu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_039.wav,harakat,ش,1.115
+QUAIDA_00152,L3_QUAIDA_03,3,harakat,03_040,صَ,Sa,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_040.wav,harakat,ص,1.3
+QUAIDA_00153,L3_QUAIDA_03,3,harakat,03_041,صِ,Si,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_041.wav,harakat,ص,1.277
+QUAIDA_00154,L3_QUAIDA_03,3,harakat,03_042,صُ,Su,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_042.wav,harakat,ص,1.161
+QUAIDA_00155,L3_QUAIDA_03,3,harakat,03_043,ضَ,dha,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_043.wav,harakat,ض,1.161
+QUAIDA_00156,L3_QUAIDA_03,3,harakat,03_044,ضِ,dhi,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_044.wav,harakat,ض,1.091
+QUAIDA_00157,L3_QUAIDA_03,3,harakat,03_045,ضُ,dhu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_045.wav,harakat,ض,1.068
+QUAIDA_00158,L3_QUAIDA_03,3,harakat,03_046,طَ,Ta,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_046.wav,harakat,ط,0.998
+QUAIDA_00159,L3_QUAIDA_03,3,harakat,03_047,طِ,Ti,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_047.wav,harakat,ط,0.882
+QUAIDA_00160,L3_QUAIDA_03,3,harakat,03_048,طُ,Tu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_048.wav,harakat,ط,1.068
+QUAIDA_00161,L3_QUAIDA_03,3,harakat,03_049,ظَ,Zha,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_049.wav,harakat,ظ,1.231
+QUAIDA_00162,L3_QUAIDA_03,3,harakat,03_050,ظِ,Zhi,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_050.wav,harakat,ظ,1.161
+QUAIDA_00163,L3_QUAIDA_03,3,harakat,03_051,ظُ,Zhu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_051.wav,harakat,ظ,0.975
+QUAIDA_00164,L3_QUAIDA_03,3,harakat,03_052,عَ,Aa,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_052.wav,harakat,ع,1.068
+QUAIDA_00165,L3_QUAIDA_03,3,harakat,03_053,عِ,Ai,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_053.wav,harakat,ع,1.138
+QUAIDA_00166,L3_QUAIDA_03,3,harakat,03_054,عُ,Au,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_054.wav,harakat,ع,1.022
+QUAIDA_00167,L3_QUAIDA_03,3,harakat,03_055,غَ,gha,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_055.wav,harakat,غ,1.115
+QUAIDA_00168,L3_QUAIDA_03,3,harakat,03_056,غِ,ghi,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_056.wav,harakat,غ,1.207
+QUAIDA_00169,L3_QUAIDA_03,3,harakat,03_057,غُ,ghu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_057.wav,harakat,غ,1.022
+QUAIDA_00170,L3_QUAIDA_03,3,harakat,03_058,فَ,fa,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_058.wav,harakat,ف,1.115
+QUAIDA_00171,L3_QUAIDA_03,3,harakat,03_059,فِ,fi,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_059.wav,harakat,ف,1.277
+QUAIDA_00172,L3_QUAIDA_03,3,harakat,03_060,فُ,fu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_060.wav,harakat,ف,1.068
+QUAIDA_00173,L3_QUAIDA_03,3,harakat,03_061,قَ,qa,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_061.wav,harakat,ق,0.882
+QUAIDA_00174,L3_QUAIDA_03,3,harakat,03_062,قِ,qi,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_062.wav,harakat,ق,0.998
+QUAIDA_00175,L3_QUAIDA_03,3,harakat,03_063,قُ,qu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_063.wav,harakat,ق,0.766
+QUAIDA_00176,L3_QUAIDA_03,3,harakat,03_064,كَ,ka,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_064.wav,harakat,ك,0.859
+QUAIDA_00177,L3_QUAIDA_03,3,harakat,03_065,كِ,ki,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_065.wav,harakat,ك,1.045
+QUAIDA_00178,L3_QUAIDA_03,3,harakat,03_066,كُ,ku,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_066.wav,harakat,ك,0.906
+QUAIDA_00179,L3_QUAIDA_03,3,harakat,03_067,لَ,la,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_067.wav,harakat,ل,0.906
+QUAIDA_00180,L3_QUAIDA_03,3,harakat,03_068,لِ,li,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_068.wav,harakat,ل,0.813
+QUAIDA_00181,L3_QUAIDA_03,3,harakat,03_069,لُ,lu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_069.wav,harakat,ل,0.929
+QUAIDA_00182,L3_QUAIDA_03,3,harakat,03_070,مَ,ma,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_070.wav,harakat,م,0.975
+QUAIDA_00183,L3_QUAIDA_03,3,harakat,03_071,مِ,mi,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_071.wav,harakat,م,1.022
+QUAIDA_00184,L3_QUAIDA_03,3,harakat,03_072,مُ,mu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_072.wav,harakat,م,1.068
+QUAIDA_00185,L3_QUAIDA_03,3,harakat,03_073,نَ,na,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_073.wav,harakat,ن,0.882
+QUAIDA_00186,L3_QUAIDA_03,3,harakat,03_074,نِ,ni,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_074.wav,harakat,ن,1.277
+QUAIDA_00187,L3_QUAIDA_03,3,harakat,03_075,نُ,nu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_075.wav,harakat,ن,1.068
+QUAIDA_00188,L3_QUAIDA_03,3,harakat,03_076,وَ,wa,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_076.wav,harakat,و,1.068
+QUAIDA_00189,L3_QUAIDA_03,3,harakat,03_077,وِ,wi,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_077.wav,harakat,و,1.115
+QUAIDA_00190,L3_QUAIDA_03,3,harakat,03_078,وُ,wu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_078.wav,harakat,و,0.906
+QUAIDA_00191,L3_QUAIDA_03,3,harakat,03_079,هَ,ha,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_079.wav,harakat,ه,1.254
+QUAIDA_00192,L3_QUAIDA_03,3,harakat,03_080,هِ,hi,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_080.wav,harakat,ه,1.138
+QUAIDA_00193,L3_QUAIDA_03,3,harakat,03_081,هُ,hu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_081.wav,harakat,ه,0.975
+QUAIDA_00194,L3_QUAIDA_03,3,harakat,03_082,يَ,ya,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_082.wav,harakat,ي,0.882
+QUAIDA_00195,L3_QUAIDA_03,3,harakat,03_083,يِ,yi,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_083.wav,harakat,ي,0.882
+QUAIDA_00196,L3_QUAIDA_03,3,harakat,03_084,يُ,yu,C:/Users/PC/Desktop/Qaida_audios/3_harakat finalized/03_084.wav,harakat,ي,0.882
+QUAIDA_00197,L4_QUAIDA_04,4,long voices,04_001,اٰ,aa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_001.wav,long voices,ا,1.254
+QUAIDA_00198,L4_QUAIDA_04,4,long voices,04_002,اٖ,ee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_002.wav,long voices,ا,1.045
+QUAIDA_00199,L4_QUAIDA_04,4,long voices,04_003,اٗ,oo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_003.wav,long voices,ا,1.254
+QUAIDA_00200,L4_QUAIDA_04,4,long voices,04_004,بٰ,baa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_004.wav,long voices,ب,1.161
+QUAIDA_00201,L4_QUAIDA_04,4,long voices,04_005,بٖ,bee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_005.wav,long voices,ب,1.3
+QUAIDA_00202,L4_QUAIDA_04,4,long voices,04_006,بٗ,boo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_006.wav,long voices,ب,1.091
+QUAIDA_00203,L4_QUAIDA_04,4,long voices,04_007,تٰ,taa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_007.wav,long voices,ت,1.091
+QUAIDA_00204,L4_QUAIDA_04,4,long voices,04_008,تٖ,tee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_008.wav,long voices,ت,1.231
+QUAIDA_00205,L4_QUAIDA_04,4,long voices,04_009,تٗ,too,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_009.wav,long voices,ت,1.138
+QUAIDA_00206,L4_QUAIDA_04,4,long voices,04_010,ثٰ,thaa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_010.wav,long voices,ث,1.207
+QUAIDA_00207,L4_QUAIDA_04,4,long voices,04_011,ثٖ,thee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_011.wav,long voices,ث,1.324
+QUAIDA_00208,L4_QUAIDA_04,4,long voices,04_012,ثٗ,thoo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_012.wav,long voices,ث,1.277
+QUAIDA_00209,L4_QUAIDA_04,4,long voices,04_013,جٰ,jaa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_013.wav,long voices,ج,1.672
+QUAIDA_00210,L4_QUAIDA_04,4,long voices,04_014,جٖ,jee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_014.wav,long voices,ج,1.324
+QUAIDA_00211,L4_QUAIDA_04,4,long voices,04_015,جٗ,joo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_015.wav,long voices,ج,1.486
+QUAIDA_00212,L4_QUAIDA_04,4,long voices,04_016,حٰ,Haa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_016.wav,long voices,ح,1.556
+QUAIDA_00213,L4_QUAIDA_04,4,long voices,04_017,حٖ,Hee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_017.wav,long voices,ح,1.115
+QUAIDA_00214,L4_QUAIDA_04,4,long voices,04_018,حٗ,Hoo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_018.wav,long voices,ح,1.509
+QUAIDA_00215,L4_QUAIDA_04,4,long voices,04_019,خٰ,khaa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_019.wav,long voices,خ,1.347
+QUAIDA_00216,L4_QUAIDA_04,4,long voices,04_020,خٖ,khee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_020.wav,long voices,خ,1.254
+QUAIDA_00217,L4_QUAIDA_04,4,long voices,04_021,خٗ,khoo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_021.wav,long voices,خ,1.3
+QUAIDA_00218,L4_QUAIDA_04,4,long voices,04_022,دٰ,daa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_022.wav,long voices,د,1.347
+QUAIDA_00219,L4_QUAIDA_04,4,long voices,04_023,دٖ,dee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_023.wav,long voices,د,1.254
+QUAIDA_00220,L4_QUAIDA_04,4,long voices,04_024,دٗ,doo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_024.wav,long voices,د,1.3
+QUAIDA_00221,L4_QUAIDA_04,4,long voices,04_067,ذٰ,zhaa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_067.wav,long voices,ذ,1.324
+QUAIDA_00222,L4_QUAIDA_04,4,long voices,04_068,ذٖ,zhee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_068.wav,long voices,ذ,1.207
+QUAIDA_00223,L4_QUAIDA_04,4,long voices,04_069,ذٗ,zhoo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_069.wav,long voices,ذ,1.138
+QUAIDA_00224,L4_QUAIDA_04,4,long voices,04_025,رٰ,raa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_025.wav,long voices,ر,1.486
+QUAIDA_00225,L4_QUAIDA_04,4,long voices,04_026,رٖ,ree,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_026.wav,long voices,ر,1.207
+QUAIDA_00226,L4_QUAIDA_04,4,long voices,04_027,رٗ,roo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_027.wav,long voices,ر,1.3
+QUAIDA_00227,L4_QUAIDA_04,4,long voices,04_028,زٰ,zaa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_028.wav,long voices,ز,1.207
+QUAIDA_00228,L4_QUAIDA_04,4,long voices,04_029,زٖ,zee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_029.wav,long voices,ز,1.324
+QUAIDA_00229,L4_QUAIDA_04,4,long voices,04_030,زٗ,zoo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_030.wav,long voices,ز,1.161
+QUAIDA_00230,L4_QUAIDA_04,4,long voices,04_031,سٰ,saa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_031.wav,long voices,س,1.277
+QUAIDA_00231,L4_QUAIDA_04,4,long voices,04_032,سٖ,see,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_032.wav,long voices,س,1.37
+QUAIDA_00232,L4_QUAIDA_04,4,long voices,04_033,سٗ,soo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_033.wav,long voices,س,1.486
+QUAIDA_00233,L4_QUAIDA_04,4,long voices,04_034,شٰ,shaa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_034.wav,long voices,ش,1.231
+QUAIDA_00234,L4_QUAIDA_04,4,long voices,04_035,شٖ,shee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_035.wav,long voices,ش,1.3
+QUAIDA_00235,L4_QUAIDA_04,4,long voices,04_036,شٗ,shoo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_036.wav,long voices,ش,1.115
+QUAIDA_00236,L4_QUAIDA_04,4,long voices,04_037,صٰ,Saa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_037.wav,long voices,ص,1.556
+QUAIDA_00237,L4_QUAIDA_04,4,long voices,04_038,صٖ,See,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_038.wav,long voices,ص,1.533
+QUAIDA_00238,L4_QUAIDA_04,4,long voices,04_039,صٗ,Soo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_039.wav,long voices,ص,1.486
+QUAIDA_00239,L4_QUAIDA_04,4,long voices,04_040,ضٰ,dhaa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_040.wav,long voices,ض,1.533
+QUAIDA_00240,L4_QUAIDA_04,4,long voices,04_041,ضٖ,dhee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_041.wav,long voices,ض,1.161
+QUAIDA_00241,L4_QUAIDA_04,4,long voices,04_042,ضٗ,dhoo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_042.wav,long voices,ض,1.277
+QUAIDA_00242,L4_QUAIDA_04,4,long voices,04_043,طٰ,Taa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_043.wav,long voices,ط,1.231
+QUAIDA_00243,L4_QUAIDA_04,4,long voices,04_044,طٖ,Tee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_044.wav,long voices,ط,1.254
+QUAIDA_00244,L4_QUAIDA_04,4,long voices,04_045,طٗ,Too,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_045.wav,long voices,ط,1.045
+QUAIDA_00245,L4_QUAIDA_04,4,long voices,04_046,ظٰ,Zhaa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_046.wav,long voices,ظ,1.231
+QUAIDA_00246,L4_QUAIDA_04,4,long voices,04_047,ظٖ,Zhee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_047.wav,long voices,ظ,1.277
+QUAIDA_00247,L4_QUAIDA_04,4,long voices,04_048,ظٗ,Zhoo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_048.wav,long voices,ظ,1.509
+QUAIDA_00248,L4_QUAIDA_04,4,long voices,04_049,عٰ,Aaa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_049.wav,long voices,ع,1.3
+QUAIDA_00249,L4_QUAIDA_04,4,long voices,04_050,عٖ,Aee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_050.wav,long voices,ع,1.115
+QUAIDA_00250,L4_QUAIDA_04,4,long voices,04_051,عٗ,Aoo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_051.wav,long voices,ع,1.347
+QUAIDA_00251,L4_QUAIDA_04,4,long voices,04_052,غٰ,ghaa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_052.wav,long voices,غ,1.347
+QUAIDA_00252,L4_QUAIDA_04,4,long voices,04_053,غٖ,ghee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_053.wav,long voices,غ,1.138
+QUAIDA_00253,L4_QUAIDA_04,4,long voices,04_054,غٗ,ghoo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_054.wav,long voices,غ,1.254
+QUAIDA_00254,L4_QUAIDA_04,4,long voices,04_055,فٰ,faa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_055.wav,long voices,ف,1.811
+QUAIDA_00255,L4_QUAIDA_04,4,long voices,04_056,فٖ,fee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_056.wav,long voices,ف,1.44
+QUAIDA_00256,L4_QUAIDA_04,4,long voices,04_057,فٗ,foo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_057.wav,long voices,ف,1.3
+QUAIDA_00257,L4_QUAIDA_04,4,long voices,04_058,قٰ,qaa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_058.wav,long voices,ق,1.207
+QUAIDA_00258,L4_QUAIDA_04,4,long voices,04_059,قٖ,qee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_059.wav,long voices,ق,1.045
+QUAIDA_00259,L4_QUAIDA_04,4,long voices,04_060,قٗ,qoo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_060.wav,long voices,ق,1.138
+QUAIDA_00260,L4_QUAIDA_04,4,long voices,04_061,كٰ,kaa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_061.wav,long voices,ك,1.3
+QUAIDA_00261,L4_QUAIDA_04,4,long voices,04_062,كٖ,kee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_062.wav,long voices,ك,1.486
+QUAIDA_00262,L4_QUAIDA_04,4,long voices,04_063,كٗ,koo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_063.wav,long voices,ك,1.068
+QUAIDA_00263,L4_QUAIDA_04,4,long voices,04_064,هٰ,haa,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_064.wav,long voices,ه,1.254
+QUAIDA_00264,L4_QUAIDA_04,4,long voices,04_065,هٖ,hee,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_065.wav,long voices,ه,1.324
+QUAIDA_00265,L4_QUAIDA_04,4,long voices,04_066,هٗ,hoo,C:/Users/PC/Desktop/Qaida_audios/4_finalized Long Voices/04_066.wav,long voices,ه,1.37
+QUAIDA_00266,L5_QUAIDA_05,5,tanween,05_001,اً,An,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_001.wav,tanween,,0.998
+QUAIDA_00267,L5_QUAIDA_05,5,tanween,05_002,اٍ,in,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_002.wav,tanween,,1.115
+QUAIDA_00268,L5_QUAIDA_05,5,tanween,05_003,اٌ,un,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_003.wav,tanween,,1.022
+QUAIDA_00269,L5_QUAIDA_05,5,tanween,05_004,بً,bAn,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_004.wav,tanween,,1.045
+QUAIDA_00270,L5_QUAIDA_05,5,tanween,05_005,بٍ,bin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_005.wav,tanween,,1.022
+QUAIDA_00271,L5_QUAIDA_05,5,tanween,05_006,بٌ,bun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_006.wav,tanween,,1.068
+QUAIDA_00272,L5_QUAIDA_05,5,tanween,05_007,تً,tAn,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_007.wav,tanween,,1.022
+QUAIDA_00273,L5_QUAIDA_05,5,tanween,05_008,تٍ,tin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_008.wav,tanween,,1.115
+QUAIDA_00274,L5_QUAIDA_05,5,tanween,05_009,تٌ,tun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_009.wav,tanween,,0.813
+QUAIDA_00275,L5_QUAIDA_05,5,tanween,05_010,ثً,thAn,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_010.wav,tanween,,1.138
+QUAIDA_00276,L5_QUAIDA_05,5,tanween,05_011,ثٍ,thin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_011.wav,tanween,,1.37
+QUAIDA_00277,L5_QUAIDA_05,5,tanween,05_012,ثٌ,thun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_012.wav,tanween,,1.161
+QUAIDA_00278,L5_QUAIDA_05,5,tanween,05_013,جً,jAn,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_013.wav,tanween,,1.277
+QUAIDA_00279,L5_QUAIDA_05,5,tanween,05_014,جٍ,jin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_014.wav,tanween,,1.138
+QUAIDA_00280,L5_QUAIDA_05,5,tanween,05_015,جٌ,jun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_015.wav,tanween,,1.207
+QUAIDA_00281,L5_QUAIDA_05,5,tanween,05_016,حً,HAn,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_016.wav,tanween,,1.022
+QUAIDA_00282,L5_QUAIDA_05,5,tanween,05_017,حٍ,Hin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_017.wav,tanween,,1.254
+QUAIDA_00283,L5_QUAIDA_05,5,tanween,05_018,حٌ,Hun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_018.wav,tanween,,1.091
+QUAIDA_00284,L5_QUAIDA_05,5,tanween,05_019,خً,khAn,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_019.wav,tanween,,0.998
+QUAIDA_00285,L5_QUAIDA_05,5,tanween,05_020,خٍ,khin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_020.wav,tanween,,1.091
+QUAIDA_00286,L5_QUAIDA_05,5,tanween,05_021,خٌ,khun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_021.wav,tanween,,1.207
+QUAIDA_00287,L5_QUAIDA_05,5,tanween,05_022,دً,dAn,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_022.wav,tanween,,0.906
+QUAIDA_00288,L5_QUAIDA_05,5,tanween,05_023,دٍ,din,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_023.wav,tanween,,1.115
+QUAIDA_00289,L5_QUAIDA_05,5,tanween,05_024,دٌ,dun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_024.wav,tanween,,0.975
+QUAIDA_00290,L5_QUAIDA_05,5,tanween,05_025,ذً,zhAn,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_025.wav,tanween,,1.068
+QUAIDA_00291,L5_QUAIDA_05,5,tanween,05_026,ذٍ,zhin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_026.wav,tanween,,1.115
+QUAIDA_00292,L5_QUAIDA_05,5,tanween,05_027,ذٌ,zhun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_027.wav,tanween,,1.115
+QUAIDA_00293,L5_QUAIDA_05,5,tanween,05_028,رً,rAn,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_028.wav,tanween,,1.091
+QUAIDA_00294,L5_QUAIDA_05,5,tanween,05_029,رٍ,rin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_029.wav,tanween,,1.022
+QUAIDA_00295,L5_QUAIDA_05,5,tanween,05_030,رٌ,run,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_030.wav,tanween,,0.836
+QUAIDA_00296,L5_QUAIDA_05,5,tanween,05_031,زً,zAn,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_031.wav,tanween,,1.022
+QUAIDA_00297,L5_QUAIDA_05,5,tanween,05_032,زٍ,zin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_032.wav,tanween,,1.231
+QUAIDA_00298,L5_QUAIDA_05,5,tanween,05_033,زٌ,zun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_033.wav,tanween,,0.882
+QUAIDA_00299,L5_QUAIDA_05,5,tanween,05_034,سً,sAn,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_034.wav,tanween,,1.161
+QUAIDA_00300,L5_QUAIDA_05,5,tanween,05_035,سٍ,sin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_035.wav,tanween,,0.998
+QUAIDA_00301,L5_QUAIDA_05,5,tanween,05_036,سٌ,sun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_036.wav,tanween,,0.906
+QUAIDA_00302,L5_QUAIDA_05,5,tanween,05_037,شً,shAn,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_037.wav,tanween,,1.37
+QUAIDA_00303,L5_QUAIDA_05,5,tanween,05_038,شٍ,shin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_038.wav,tanween,,1.045
+QUAIDA_00304,L5_QUAIDA_05,5,tanween,05_039,شٌ,shun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_039.wav,tanween,,1.254
+QUAIDA_00305,L5_QUAIDA_05,5,tanween,05_040,صً,SAn,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_040.wav,tanween,,1.068
+QUAIDA_00306,L5_QUAIDA_05,5,tanween,05_041,صٍ,Sin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_041.wav,tanween,,1.138
+QUAIDA_00307,L5_QUAIDA_05,5,tanween,05_042,صٌ,Sun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_042.wav,tanween,,1.045
+QUAIDA_00308,L5_QUAIDA_05,5,tanween,05_043,ضً,dhAn,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_043.wav,tanween,,0.975
+QUAIDA_00309,L5_QUAIDA_05,5,tanween,05_044,ضٍ,dhin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_044.wav,tanween,,0.975
+QUAIDA_00310,L5_QUAIDA_05,5,tanween,05_045,ضٌ,dhun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_045.wav,tanween,,1.045
+QUAIDA_00311,L5_QUAIDA_05,5,tanween,05_046,طً,TAn,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_046.wav,tanween,,1.068
+QUAIDA_00312,L5_QUAIDA_05,5,tanween,05_047,طٍ,Tin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_047.wav,tanween,,1.138
+QUAIDA_00313,L5_QUAIDA_05,5,tanween,05_048,طٌ,Tun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_048.wav,tanween,,0.998
+QUAIDA_00314,L5_QUAIDA_05,5,tanween,05_049,ظً,ZhAn,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_049.wav,tanween,,1.022
+QUAIDA_00315,L5_QUAIDA_05,5,tanween,05_050,ظٍ,Zhin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_050.wav,tanween,,1.068
+QUAIDA_00316,L5_QUAIDA_05,5,tanween,05_051,ظٌ,Zhun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_051.wav,tanween,,0.998
+QUAIDA_00317,L5_QUAIDA_05,5,tanween,05_052,عً,An,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_052.wav,tanween,,1.138
+QUAIDA_00318,L5_QUAIDA_05,5,tanween,05_053,عٍ,Ain,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_053.wav,tanween,,1.207
+QUAIDA_00319,L5_QUAIDA_05,5,tanween,05_054,عٌ,Aun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_054.wav,tanween,,0.975
+QUAIDA_00320,L5_QUAIDA_05,5,tanween,05_055,غً,ghAn,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_055.wav,tanween,,0.998
+QUAIDA_00321,L5_QUAIDA_05,5,tanween,05_056,غٍ,ghin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_056.wav,tanween,,0.998
+QUAIDA_00322,L5_QUAIDA_05,5,tanween,05_057,غٌ,ghun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_057.wav,tanween,,0.882
+QUAIDA_00323,L5_QUAIDA_05,5,tanween,05_058,فً,fan,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_058.wav,tanween,,0.929
+QUAIDA_00324,L5_QUAIDA_05,5,tanween,05_059,فٍ,fin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_059.wav,tanween,,0.906
+QUAIDA_00325,L5_QUAIDA_05,5,tanween,05_060,فٌ,fun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_060.wav,tanween,,0.882
+QUAIDA_00326,L5_QUAIDA_05,5,tanween,05_061,قً,qAn,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_061.wav,tanween,,0.882
+QUAIDA_00327,L5_QUAIDA_05,5,tanween,05_062,قٍ,qin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_062.wav,tanween,,0.882
+QUAIDA_00328,L5_QUAIDA_05,5,tanween,05_063,قٌ,qun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_063.wav,tanween,,0.859
+QUAIDA_00329,L5_QUAIDA_05,5,tanween,05_064,كً,kan,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_064.wav,tanween,,1.068
+QUAIDA_00330,L5_QUAIDA_05,5,tanween,05_065,كٍ,kin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_065.wav,tanween,,0.929
+QUAIDA_00331,L5_QUAIDA_05,5,tanween,05_066,كٌ,kun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_066.wav,tanween,,0.789
+QUAIDA_00332,L5_QUAIDA_05,5,tanween,05_067,لً,lan,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_067.wav,tanween,,1.022
+QUAIDA_00333,L5_QUAIDA_05,5,tanween,05_068,لٍ,lin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_068.wav,tanween,,0.906
+QUAIDA_00334,L5_QUAIDA_05,5,tanween,05_069,لٌ,lun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_069.wav,tanween,,0.859
+QUAIDA_00335,L5_QUAIDA_05,5,tanween,05_070,مً,man,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_070.wav,tanween,,0.836
+QUAIDA_00336,L5_QUAIDA_05,5,tanween,05_071,مٍ,min,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_071.wav,tanween,,0.836
+QUAIDA_00337,L5_QUAIDA_05,5,tanween,05_072,مٌ,mun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_072.wav,tanween,,0.813
+QUAIDA_00338,L5_QUAIDA_05,5,tanween,05_073,نً,nan,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_073.wav,tanween,,0.789
+QUAIDA_00339,L5_QUAIDA_05,5,tanween,05_074,نٍ,nin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_074.wav,tanween,,0.836
+QUAIDA_00340,L5_QUAIDA_05,5,tanween,05_075,نٌ,nun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_075.wav,tanween,,0.813
+QUAIDA_00341,L5_QUAIDA_05,5,tanween,05_076,وً,wan,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_076.wav,tanween,,0.859
+QUAIDA_00342,L5_QUAIDA_05,5,tanween,05_077,وٍ,win,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_077.wav,tanween,,0.882
+QUAIDA_00343,L5_QUAIDA_05,5,tanween,05_078,وٌ,wun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_078.wav,tanween,,0.882
+QUAIDA_00344,L5_QUAIDA_05,5,tanween,05_079,هً,han,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_079.wav,tanween,,1.022
+QUAIDA_00345,L5_QUAIDA_05,5,tanween,05_080,هٍ,hin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_080.wav,tanween,,0.929
+QUAIDA_00346,L5_QUAIDA_05,5,tanween,05_081,هٌ,hun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_081.wav,tanween,,0.882
+QUAIDA_00347,L5_QUAIDA_05,5,tanween,05_082,يً,yan,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_082.wav,tanween,,0.906
+QUAIDA_00348,L5_QUAIDA_05,5,tanween,05_083,يٍ,yin,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_083.wav,tanween,,0.836
+QUAIDA_00349,L5_QUAIDA_05,5,tanween,05_084,يٌ,yun,C:/Users/PC/Desktop/Qaida_audios/5_finalized tanween/05_084.wav,tanween,,0.859
+QUAIDA_00350,L6_QUAIDA_06,6,sukoon,06_001,اَبْ,aB,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_001.wav,sukoon,,0.906
+QUAIDA_00351,L6_QUAIDA_06,6,sukoon,06_002,اِبْ,iB,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_002.wav,sukoon,,1.022
+QUAIDA_00352,L6_QUAIDA_06,6,sukoon,06_003,اُبْ,uB,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_003.wav,sukoon,,0.998
+QUAIDA_00353,L6_QUAIDA_06,6,sukoon,06_004,اَتْ,at,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_004.wav,sukoon,,0.859
+QUAIDA_00354,L6_QUAIDA_06,6,sukoon,06_005,اِتْ,it,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_005.wav,sukoon,,0.813
+QUAIDA_00355,L6_QUAIDA_06,6,sukoon,06_006,اُتْ,ut,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_006.wav,sukoon,,0.813
+QUAIDA_00356,L6_QUAIDA_06,6,sukoon,06_007,اَثْ,ath,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_007.wav,sukoon,,0.789
+QUAIDA_00357,L6_QUAIDA_06,6,sukoon,06_008,اِثْ,ith,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_008.wav,sukoon,,1.022
+QUAIDA_00358,L6_QUAIDA_06,6,sukoon,06_009,اُثْ,uth,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_009.wav,sukoon,,0.859
+QUAIDA_00359,L6_QUAIDA_06,6,sukoon,06_010,اَجْ,aj,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_010.wav,sukoon,,0.836
+QUAIDA_00360,L6_QUAIDA_06,6,sukoon,06_011,اِجْ,ij,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_011.wav,sukoon,,0.813
+QUAIDA_00361,L6_QUAIDA_06,6,sukoon,06_012,اُجْ,uj,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_012.wav,sukoon,,0.789
+QUAIDA_00362,L6_QUAIDA_06,6,sukoon,06_013,اَحْ,aH,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_013.wav,sukoon,,0.975
+QUAIDA_00363,L6_QUAIDA_06,6,sukoon,06_014,اِحْ,iH,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_014.wav,sukoon,,1.022
+QUAIDA_00364,L6_QUAIDA_06,6,sukoon,06_015,اُحْ,uH,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_015.wav,sukoon,,0.929
+QUAIDA_00365,L6_QUAIDA_06,6,sukoon,06_016,اَخْ,akh,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_016.wav,sukoon,,0.975
+QUAIDA_00366,L6_QUAIDA_06,6,sukoon,06_017,اِخْ,ikh,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_017.wav,sukoon,,0.882
+QUAIDA_00367,L6_QUAIDA_06,6,sukoon,06_018,اُخْ,ukh,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_018.wav,sukoon,,0.998
+QUAIDA_00368,L6_QUAIDA_06,6,sukoon,06_019,اَدْ,aD,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_019.wav,sukoon,,0.836
+QUAIDA_00369,L6_QUAIDA_06,6,sukoon,06_020,اِدْ,iD,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_020.wav,sukoon,,0.929
+QUAIDA_00370,L6_QUAIDA_06,6,sukoon,06_021,اُدْ,uD,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_021.wav,sukoon,,0.859
+QUAIDA_00371,L6_QUAIDA_06,6,sukoon,06_022,اَذْ,azh,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_022.wav,sukoon,,0.789
+QUAIDA_00372,L6_QUAIDA_06,6,sukoon,06_023,اِذْ,izh,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_023.wav,sukoon,,0.998
+QUAIDA_00373,L6_QUAIDA_06,6,sukoon,06_024,اُذْ,uzh,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_024.wav,sukoon,,0.882
+QUAIDA_00374,L6_QUAIDA_06,6,sukoon,06_025,اَرْ,ar,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_025.wav,sukoon,,0.929
+QUAIDA_00375,L6_QUAIDA_06,6,sukoon,06_026,اِرْ,ir,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_026.wav,sukoon,,0.882
+QUAIDA_00376,L6_QUAIDA_06,6,sukoon,06_027,اُرْ,ur,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_027.wav,sukoon,,0.906
+QUAIDA_00377,L6_QUAIDA_06,6,sukoon,06_028,اَزْ,az,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_028.wav,sukoon,,1.115
+QUAIDA_00378,L6_QUAIDA_06,6,sukoon,06_029,اِزْ,iz,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_029.wav,sukoon,,1.022
+QUAIDA_00379,L6_QUAIDA_06,6,sukoon,06_030,اُزْ,uz,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_030.wav,sukoon,,0.929
+QUAIDA_00380,L6_QUAIDA_06,6,sukoon,06_031,اَسْ,as,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_031.wav,sukoon,,0.836
+QUAIDA_00381,L6_QUAIDA_06,6,sukoon,06_032,اِسْ,is,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_032.wav,sukoon,,1.068
+QUAIDA_00382,L6_QUAIDA_06,6,sukoon,06_033,اُسْ,us,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_033.wav,sukoon,,1.207
+QUAIDA_00383,L6_QUAIDA_06,6,sukoon,06_034,اَشْ,ash,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_034.wav,sukoon,,0.998
+QUAIDA_00384,L6_QUAIDA_06,6,sukoon,06_035,اِشْ,ish,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_035.wav,sukoon,,1.091
+QUAIDA_00385,L6_QUAIDA_06,6,sukoon,06_036,اُشْ,ush,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_036.wav,sukoon,,1.068
+QUAIDA_00386,L6_QUAIDA_06,6,sukoon,06_037,اَصْ,aS,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_037.wav,sukoon,,1.022
+QUAIDA_00387,L6_QUAIDA_06,6,sukoon,06_038,اِصْ,iS,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_038.wav,sukoon,,1.068
+QUAIDA_00388,L6_QUAIDA_06,6,sukoon,06_039,اُصْ,uS,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_039.wav,sukoon,,1.045
+QUAIDA_00389,L6_QUAIDA_06,6,sukoon,06_040,اَضْ,adh,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_040.wav,sukoon,,1.045
+QUAIDA_00390,L6_QUAIDA_06,6,sukoon,06_041,اِضْ,idh,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_041.wav,sukoon,,0.882
+QUAIDA_00391,L6_QUAIDA_06,6,sukoon,06_042,اُضْ,udh,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_042.wav,sukoon,,0.929
+QUAIDA_00392,L6_QUAIDA_06,6,sukoon,06_043,اَطْ,aT,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_043.wav,sukoon,,0.929
+QUAIDA_00393,L6_QUAIDA_06,6,sukoon,06_044,اِطْ,iT,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_044.wav,sukoon,,0.998
+QUAIDA_00394,L6_QUAIDA_06,6,sukoon,06_045,اُطْ,uT,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_045.wav,sukoon,,0.859
+QUAIDA_00395,L6_QUAIDA_06,6,sukoon,06_046,اَظْ,aZh,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_046.wav,sukoon,,0.836
+QUAIDA_00396,L6_QUAIDA_06,6,sukoon,06_047,اِظْ,iZh,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_047.wav,sukoon,,0.882
+QUAIDA_00397,L6_QUAIDA_06,6,sukoon,06_048,اُظْ,uZh,C:/Users/PC/Desktop/Qaida_audios/6_Finalized Sukoon/06_048.wav,sukoon,,0.975
+QUAIDA_00398,L7_QUAIDA_07,7,shaddah,07_001,اَبَّ,abba,C:/Users/PC/Desktop/Qaida_audios/7_finalized shaddah/07_001.wav,,,1.091
+QUAIDA_00399,L7_QUAIDA_07,7,shaddah,07_002,اِبَّ,ibba,C:/Users/PC/Desktop/Qaida_audios/7_finalized shaddah/07_002.wav,,,1.161
+QUAIDA_00400,L7_QUAIDA_07,7,shaddah,07_003,اُبَّ,ubba,C:/Users/PC/Desktop/Qaida_audios/7_finalized shaddah/07_003.wav,,,0.975
+QUAIDA_00401,L7_QUAIDA_07,7,shaddah,07_004,اَتَّ,atta,C:/Users/PC/Desktop/Qaida_audios/7_finalized shaddah/07_004.wav,,,1.207
+QUAIDA_00402,L7_QUAIDA_07,7,shaddah,07_005,اِتَّ,itta,C:/Users/PC/Desktop/Qaida_audios/7_finalized shaddah/07_005.wav,,,1.068
+QUAIDA_00403,L7_QUAIDA_07,7,shaddah,07_006,اُتَّ,utta,C:/Users/PC/Desktop/Qaida_audios/7_finalized shaddah/07_006.wav,,,1.138
+QUAIDA_00404,L7_QUAIDA_07,7,shaddah,07_007,اَثَّ,atha,C:/Users/PC/Desktop/Qaida_audios/7_finalized shaddah/07_007.wav,,,1.254
+QUAIDA_00405,L7_QUAIDA_07,7,shaddah,07_008,اِثَّ,itha,C:/Users/PC/Desktop/Qaida_audios/7_finalized shaddah/07_008.wav,,,1.161
+QUAIDA_00406,L7_QUAIDA_07,7,shaddah,07_009,اُثَّ,utha,C:/Users/PC/Desktop/Qaida_audios/7_finalized shaddah/07_009.wav,,,1.207
+QUAIDA_00407,L7_QUAIDA_07,7,shaddah,07_010,اَجَّ,ajja,C:/Users/PC/Desktop/Qaida_audios/7_finalized shaddah/07_010.wav,,,1.161
+QUAIDA_00408,L7_QUAIDA_07,7,shaddah,07_011,اِجَّ,ijja,C:/Users/PC/Desktop/Qaida_audios/7_finalized shaddah/07_011.wav,,,1.161
+QUAIDA_00409,L7_QUAIDA_07,7,shaddah,07_012,اُجَّ,ujja,C:/Users/PC/Desktop/Qaida_audios/7_finalized shaddah/07_012.wav,,,1.161
+QUAIDA_00410,L8_QUAIDA_08,8,qalqalah,08_001,سَبْقًا,sBqan,C:/Users/PC/Desktop/Qaida_audios/8_Finalized qalqalah/08_001.wav,,,1.556
+QUAIDA_00411,L8_QUAIDA_08,8,qalqalah,08_002,عَبْدًا,ABdan,C:/Users/PC/Desktop/Qaida_audios/8_Finalized qalqalah/08_002.wav,,,1.533
+QUAIDA_00412,L8_QUAIDA_08,8,qalqalah,08_003,عَدْنٍ,ADnin,C:/Users/PC/Desktop/Qaida_audios/8_Finalized qalqalah/08_003.wav,,,1.672
+QUAIDA_00413,L8_QUAIDA_08,8,qalqalah,08_004,اِقْرَاْ,IQr'a,C:/Users/PC/Desktop/Qaida_audios/8_Finalized qalqalah/08_004.wav,,,1.463
+QUAIDA_00414,L8_QUAIDA_08,8,qalqalah,08_005,حَبْلٌ,Hablun,C:/Users/PC/Desktop/Qaida_audios/8_Finalized qalqalah/08_005.wav,,,1.695
+QUAIDA_00415,L8_QUAIDA_08,8,qalqalah,08_006,سَبْحًا,sBHan,C:/Users/PC/Desktop/Qaida_audios/8_Finalized qalqalah/08_006.wav,,,1.672
+QUAIDA_00416,L8_QUAIDA_08,8,qalqalah,08_007,كَدْحًا,S,C:/Users/PC/Desktop/Qaida_audios/8_Finalized qalqalah/08_007.wav,,,1.765
+QUAIDA_00417,L8_QUAIDA_08,8,qalqalah,08_008,نَقْعًا,naQAan,C:/Users/PC/Desktop/Qaida_audios/8_Finalized qalqalah/08_008.wav,,,1.602
+QUAIDA_00418,L8_QUAIDA_08,8,qalqalah,08_009,اَبْقٰى,aBqaa,C:/Users/PC/Desktop/Qaida_audios/8_Finalized qalqalah/08_009.wav,,,1.579
+QUAIDA_00419,L8_QUAIDA_08,8,qalqalah,08_010,قَدْحًا,qDHan,C:/Users/PC/Desktop/Qaida_audios/8_Finalized qalqalah/08_010.wav,,,1.718
+QUAIDA_00420,L9_QUAIDA_09,9,madd,09_001,ءَا,a'aa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_001.wav,madd,,1.486
+QUAIDA_00421,L9_QUAIDA_09,9,madd,09_002,اِىْ,iee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_002.wav,madd,,1.091
+QUAIDA_00422,L9_QUAIDA_09,9,madd,09_003,اُو,uoo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_003.wav,madd,,1.022
+QUAIDA_00423,L9_QUAIDA_09,9,madd,09_004,بَا,baa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_004.wav,madd,,1.138
+QUAIDA_00424,L9_QUAIDA_09,9,madd,09_005,بِىْ,bee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_005.wav,madd,,1.068
+QUAIDA_00425,L9_QUAIDA_09,9,madd,09_006,بُوْ,boo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_006.wav,madd,,1.022
+QUAIDA_00426,L9_QUAIDA_09,9,madd,09_007,تَا,taa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_007.wav,madd,,0.929
+QUAIDA_00427,L9_QUAIDA_09,9,madd,09_008,تِىْ,tee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_008.wav,madd,,0.975
+QUAIDA_00428,L9_QUAIDA_09,9,madd,09_009,تُوْ,too,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_009.wav,madd,,1.068
+QUAIDA_00429,L9_QUAIDA_09,9,madd,09_010,ثَا,thaa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_010.wav,madd,,1.207
+QUAIDA_00430,L9_QUAIDA_09,9,madd,09_011,ثِىْ,thee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_011.wav,madd,,1.115
+QUAIDA_00431,L9_QUAIDA_09,9,madd,09_012,ثُوْ,thoo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_012.wav,madd,,1.138
+QUAIDA_00432,L9_QUAIDA_09,9,madd,09_013,جَا,jaa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_013.wav,madd,,1.37
+QUAIDA_00433,L9_QUAIDA_09,9,madd,09_014,جِىْ,jee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_014.wav,madd,,1.37
+QUAIDA_00434,L9_QUAIDA_09,9,madd,09_015,جُوْ,joo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_015.wav,madd,,1.37
+QUAIDA_00435,L9_QUAIDA_09,9,madd,09_016,حَا,Haa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_016.wav,madd,,1.231
+QUAIDA_00436,L9_QUAIDA_09,9,madd,09_017,حِىْ,Hee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_017.wav,madd,,1.207
+QUAIDA_00437,L9_QUAIDA_09,9,madd,09_018,حُوْ,Hoo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_018.wav,madd,,1.022
+QUAIDA_00438,L9_QUAIDA_09,9,madd,09_019,خَا,khaa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_019.wav,madd,,1.138
+QUAIDA_00439,L9_QUAIDA_09,9,madd,09_020,خِىْ,khee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_020.wav,madd,,1.254
+QUAIDA_00440,L9_QUAIDA_09,9,madd,09_021,خُوْ,khoo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_021.wav,madd,,1.3
+QUAIDA_00441,L9_QUAIDA_09,9,madd,09_022,دَا,daa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_022.wav,madd,,1.231
+QUAIDA_00442,L9_QUAIDA_09,9,madd,09_023,دِىْ,dee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_023.wav,madd,,1.277
+QUAIDA_00443,L9_QUAIDA_09,9,madd,09_024,دُوْ,doo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_024.wav,madd,,1.324
+QUAIDA_00444,L9_QUAIDA_09,9,madd,09_025,ذَا,zhaa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_025.wav,madd,,1.393
+QUAIDA_00445,L9_QUAIDA_09,9,madd,09_026,ذِىْ,zhee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_026.wav,madd,,1.486
+QUAIDA_00446,L9_QUAIDA_09,9,madd,09_027,ذُوْ,zhoo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_027.wav,madd,,1.3
+QUAIDA_00447,L9_QUAIDA_09,9,madd,09_028,رَا,raa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_028.wav,madd,,1.277
+QUAIDA_00448,L9_QUAIDA_09,9,madd,09_029,رِىْ,ree,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_029.wav,madd,,1.579
+QUAIDA_00449,L9_QUAIDA_09,9,madd,09_030,رُوْ,roo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_030.wav,madd,,1.37
+QUAIDA_00450,L9_QUAIDA_09,9,madd,09_031,زَا,zaa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_031.wav,madd,,1.254
+QUAIDA_00451,L9_QUAIDA_09,9,madd,09_032,زِىْ,zee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_032.wav,madd,,1.3
+QUAIDA_00452,L9_QUAIDA_09,9,madd,09_033,زُوْ,zoo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_033.wav,madd,,1.324
+QUAIDA_00453,L9_QUAIDA_09,9,madd,09_034,سَا,saa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_034.wav,madd,,1.44
+QUAIDA_00454,L9_QUAIDA_09,9,madd,09_035,سِىْ,see,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_035.wav,madd,,1.37
+QUAIDA_00455,L9_QUAIDA_09,9,madd,09_036,سُوْ,soo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_036.wav,madd,,1.695
+QUAIDA_00456,L9_QUAIDA_09,9,madd,09_037,شَا,shaa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_037.wav,madd,,1.533
+QUAIDA_00457,L9_QUAIDA_09,9,madd,09_038,شِىْ,shee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_038.wav,madd,,1.533
+QUAIDA_00458,L9_QUAIDA_09,9,madd,09_039,شُوْ,shoo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_039.wav,madd,,1.324
+QUAIDA_00459,L9_QUAIDA_09,9,madd,09_040,صَا,Saa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_040.wav,madd,,1.3
+QUAIDA_00460,L9_QUAIDA_09,9,madd,09_041,صِىْ,See,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_041.wav,madd,,1.324
+QUAIDA_00461,L9_QUAIDA_09,9,madd,09_042,صُوْ,Soo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_042.wav,madd,,1.533
+QUAIDA_00462,L9_QUAIDA_09,9,madd,09_043,ضَا,dhaa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_043.wav,madd,,1.533
+QUAIDA_00463,L9_QUAIDA_09,9,madd,09_044,ضِىْ,dhee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_044.wav,madd,,1.486
+QUAIDA_00464,L9_QUAIDA_09,9,madd,09_045,ضُوْ,dhoo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_045.wav,madd,,1.3
+QUAIDA_00465,L9_QUAIDA_09,9,madd,09_046,طَا,Taa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_046.wav,madd,,1.533
+QUAIDA_00466,L9_QUAIDA_09,9,madd,09_047,طِىْ,Tee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_047.wav,madd,,1.277
+QUAIDA_00467,L9_QUAIDA_09,9,madd,09_048,طُوْ,Too,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_048.wav,madd,,1.231
+QUAIDA_00468,L9_QUAIDA_09,9,madd,09_049,ظَا,Zhaa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_049.wav,madd,,1.486
+QUAIDA_00469,L9_QUAIDA_09,9,madd,09_050,ظِىْ,Zhee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_050.wav,madd,,1.509
+QUAIDA_00470,L9_QUAIDA_09,9,madd,09_051,ظُوْ,Zhoo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_051.wav,madd,,1.3
+QUAIDA_00471,L9_QUAIDA_09,9,madd,09_052,عَا,Aaa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_052.wav,madd,,1.207
+QUAIDA_00472,L9_QUAIDA_09,9,madd,09_053,عِىْ,Aee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_053.wav,madd,,1.37
+QUAIDA_00473,L9_QUAIDA_09,9,madd,09_054,عُوْ,Aoo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_054.wav,madd,,1.37
+QUAIDA_00474,L9_QUAIDA_09,9,madd,09_055,غَا,ghaa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_055.wav,madd,,1.556
+QUAIDA_00475,L9_QUAIDA_09,9,madd,09_056,غِىْ,ghee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_056.wav,madd,,1.37
+QUAIDA_00476,L9_QUAIDA_09,9,madd,09_057,غُوْ,ghoo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_057.wav,madd,,1.3
+QUAIDA_00477,L9_QUAIDA_09,9,madd,09_058,فَا,faa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_058.wav,madd,,1.393
+QUAIDA_00478,L9_QUAIDA_09,9,madd,09_059,فِىْ,fee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_059.wav,madd,,1.556
+QUAIDA_00479,L9_QUAIDA_09,9,madd,09_060,فُوْ,foo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_060.wav,madd,,1.3
+QUAIDA_00480,L9_QUAIDA_09,9,madd,09_061,قَا,qaa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_061.wav,madd,,1.44
+QUAIDA_00481,L9_QUAIDA_09,9,madd,09_062,قِىْ,qee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_062.wav,madd,,1.254
+QUAIDA_00482,L9_QUAIDA_09,9,madd,09_063,قُوْ,qoo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_063.wav,madd,,1.324
+QUAIDA_00483,L9_QUAIDA_09,9,madd,09_064,كَا,kaa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_064.wav,madd,,1.3
+QUAIDA_00484,L9_QUAIDA_09,9,madd,09_065,كِىْ,kee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_065.wav,madd,,1.138
+QUAIDA_00485,L9_QUAIDA_09,9,madd,09_066,كُوْ,koo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_066.wav,madd,,1.277
+QUAIDA_00486,L9_QUAIDA_09,9,madd,09_067,لَا,laa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_067.wav,madd,,1.509
+QUAIDA_00487,L9_QUAIDA_09,9,madd,09_068,لِىْ,lee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_068.wav,madd,,1.3
+QUAIDA_00488,L9_QUAIDA_09,9,madd,09_069,لُوْ,loo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_069.wav,madd,,1.347
+QUAIDA_00489,L9_QUAIDA_09,9,madd,09_070,مَا,maa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_070.wav,madd,,1.44
+QUAIDA_00490,L9_QUAIDA_09,9,madd,09_071,مِىْ,mee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_071.wav,madd,,1.556
+QUAIDA_00491,L9_QUAIDA_09,9,madd,09_072,مُوْ,moo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_072.wav,madd,,1.37
+QUAIDA_00492,L9_QUAIDA_09,9,madd,09_073,نَا,naa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_073.wav,madd,,1.44
+QUAIDA_00493,L9_QUAIDA_09,9,madd,09_074,نِىْ,nee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_074.wav,madd,,1.3
+QUAIDA_00494,L9_QUAIDA_09,9,madd,09_075,نُوْ,noo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_075.wav,madd,,1.463
+QUAIDA_00495,L9_QUAIDA_09,9,madd,09_076,هَا,haa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_076.wav,madd,,1.602
+QUAIDA_00496,L9_QUAIDA_09,9,madd,09_077,هِىْ,hee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_077.wav,madd,,1.44
+QUAIDA_00497,L9_QUAIDA_09,9,madd,09_078,هُوْ,hoo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_078.wav,madd,,1.347
+QUAIDA_00498,L9_QUAIDA_09,9,madd,09_079,وَا,waa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_079.wav,madd,,1.556
+QUAIDA_00499,L9_QUAIDA_09,9,madd,09_080,وِىْ,wee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_080.wav,madd,,1.625
+QUAIDA_00500,L9_QUAIDA_09,9,madd,09_081,وُوْ,woo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_081.wav,madd,,1.347
+QUAIDA_00501,L9_QUAIDA_09,9,madd,09_082,يَا,yaa,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_082.wav,madd,,1.695
+QUAIDA_00502,L9_QUAIDA_09,9,madd,09_083,يِىْ,yee,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_083.wav,madd,,1.324
+QUAIDA_00503,L9_QUAIDA_09,9,madd,09_084,يُوْ,yoo,C:/Users/PC/Desktop/Qaida_audios/9_finalized Madd/09_084.wav,madd,,1.324
+QUAIDA_00504,L10_QUAIDA_10,10,leen letters,10_001,اَيْ,ai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_001.wav,leen letters,ا,0.789
+QUAIDA_00505,L10_QUAIDA_10,10,leen letters,10_002,اَوْ,aw,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_002.wav,leen letters,ا,0.906
+QUAIDA_00506,L10_QUAIDA_10,10,leen letters,10_003,بَيْ,bai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_003.wav,leen letters,ب,0.975
+QUAIDA_00507,L10_QUAIDA_10,10,leen letters,10_004,بَوْ,bau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_004.wav,leen letters,ب,0.882
+QUAIDA_00508,L10_QUAIDA_10,10,leen letters,10_005,تَيْ,tai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_005.wav,leen letters,ت,0.859
+QUAIDA_00509,L10_QUAIDA_10,10,leen letters,10_006,تَوْ,tau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_006.wav,leen letters,ت,0.859
+QUAIDA_00510,L10_QUAIDA_10,10,leen letters,10_007,ثَيْ,thai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_007.wav,leen letters,ث,0.975
+QUAIDA_00511,L10_QUAIDA_10,10,leen letters,10_008,ثَوْ,thau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_008.wav,leen letters,ث,0.929
+QUAIDA_00512,L10_QUAIDA_10,10,leen letters,10_009,جَيْ,jai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_009.wav,leen letters,ج,0.929
+QUAIDA_00513,L10_QUAIDA_10,10,leen letters,10_010,جَوْ,jau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_010.wav,leen letters,ج,0.929
+QUAIDA_00514,L10_QUAIDA_10,10,leen letters,10_011,حَيْ,hai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_011.wav,leen letters,ح,0.929
+QUAIDA_00515,L10_QUAIDA_10,10,leen letters,10_012,حَوْ,hau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_012.wav,leen letters,ح,0.929
+QUAIDA_00516,L10_QUAIDA_10,10,leen letters,10_013,خَيْ,khai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_013.wav,leen letters,خ,1.045
+QUAIDA_00517,L10_QUAIDA_10,10,leen letters,10_014,خَوْ,khau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_014.wav,leen letters,خ,0.836
+QUAIDA_00518,L10_QUAIDA_10,10,leen letters,10_015,دَيْ,dai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_015.wav,leen letters,د,0.836
+QUAIDA_00519,L10_QUAIDA_10,10,leen letters,10_016,دَوْ,dau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_016.wav,leen letters,د,0.929
+QUAIDA_00520,L10_QUAIDA_10,10,leen letters,10_017,ذَيْ,zhai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_017.wav,leen letters,ذ,0.998
+QUAIDA_00521,L10_QUAIDA_10,10,leen letters,10_018,ذَوْ,zhau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_018.wav,leen letters,ذ,0.998
+QUAIDA_00522,L10_QUAIDA_10,10,leen letters,10_019,رَيْ,rai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_019.wav,leen letters,ر,1.022
+QUAIDA_00523,L10_QUAIDA_10,10,leen letters,10_020,رَوْ,rau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_020.wav,leen letters,ر,0.975
+QUAIDA_00524,L10_QUAIDA_10,10,leen letters,10_021,زَيْ,zai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_021.wav,leen letters,ز,1.022
+QUAIDA_00525,L10_QUAIDA_10,10,leen letters,10_022,زَوْ,zau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_022.wav,leen letters,ز,1.045
+QUAIDA_00526,L10_QUAIDA_10,10,leen letters,10_023,سَيْ,sai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_023.wav,leen letters,س,1.161
+QUAIDA_00527,L10_QUAIDA_10,10,leen letters,10_024,سَوْ,sau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_024.wav,leen letters,س,1.068
+QUAIDA_00528,L10_QUAIDA_10,10,leen letters,10_025,شَيْ,shai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_025.wav,leen letters,ش,1.207
+QUAIDA_00529,L10_QUAIDA_10,10,leen letters,10_026,شَوْ,shau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_026.wav,leen letters,ش,1.138
+QUAIDA_00530,L10_QUAIDA_10,10,leen letters,10_027,صَيْ,Sai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_027.wav,leen letters,ص,1.207
+QUAIDA_00531,L10_QUAIDA_10,10,leen letters,10_028,صَوْ,Sau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_028.wav,leen letters,ص,1.207
+QUAIDA_00532,L10_QUAIDA_10,10,leen letters,10_029,ضَيْ,dhai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_029.wav,leen letters,ض,1.068
+QUAIDA_00533,L10_QUAIDA_10,10,leen letters,10_030,ضَوْ,dhau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_030.wav,leen letters,ض,1.091
+QUAIDA_00534,L10_QUAIDA_10,10,leen letters,10_031,طَيْ,Tai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_031.wav,leen letters,ط,1.068
+QUAIDA_00535,L10_QUAIDA_10,10,leen letters,10_032,طَوْ,Tau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_032.wav,leen letters,ط,1.068
+QUAIDA_00536,L10_QUAIDA_10,10,leen letters,10_033,ظَيْ,Zhai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_033.wav,leen letters,ظ,1.091
+QUAIDA_00537,L10_QUAIDA_10,10,leen letters,10_034,ظَوْ,Zhau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_034.wav,leen letters,ظ,0.906
+QUAIDA_00538,L10_QUAIDA_10,10,leen letters,10_035,عَيْ,Ai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_035.wav,leen letters,ع,1.022
+QUAIDA_00539,L10_QUAIDA_10,10,leen letters,10_036,عَوْ,Au,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_036.wav,leen letters,ع,1.091
+QUAIDA_00540,L10_QUAIDA_10,10,leen letters,10_037,غَيْ,ghai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_037.wav,leen letters,غ,1.068
+QUAIDA_00541,L10_QUAIDA_10,10,leen letters,10_038,غَوْ,ghau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_038.wav,leen letters,غ,0.975
+QUAIDA_00542,L10_QUAIDA_10,10,leen letters,10_039,فَيْ,fai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_039.wav,leen letters,ف,1.022
+QUAIDA_00543,L10_QUAIDA_10,10,leen letters,10_040,فَوْ,fau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_040.wav,leen letters,ف,0.906
+QUAIDA_00544,L10_QUAIDA_10,10,leen letters,10_041,قَيْ,qai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_041.wav,leen letters,ق,0.859
+QUAIDA_00545,L10_QUAIDA_10,10,leen letters,10_042,قَوْ,qau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_042.wav,leen letters,ق,0.836
+QUAIDA_00546,L10_QUAIDA_10,10,leen letters,10_043,كَيْ,kai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_043.wav,leen letters,ك,0.743
+QUAIDA_00547,L10_QUAIDA_10,10,leen letters,10_044,كَوْ,kau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_044.wav,leen letters,ك,0.836
+QUAIDA_00548,L10_QUAIDA_10,10,leen letters,10_045,لَيْ,lai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_045.wav,leen letters,ل,1.022
+QUAIDA_00549,L10_QUAIDA_10,10,leen letters,10_046,لَوْ,lau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_046.wav,leen letters,ل,1.022
+QUAIDA_00550,L10_QUAIDA_10,10,leen letters,10_047,مَيْ,mai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_047.wav,leen letters,م,1.138
+QUAIDA_00551,L10_QUAIDA_10,10,leen letters,10_048,مَوْ,mau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_048.wav,leen letters,م,1.045
+QUAIDA_00552,L10_QUAIDA_10,10,leen letters,10_049,نَيْ,nai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_049.wav,leen letters,ن,1.115
+QUAIDA_00553,L10_QUAIDA_10,10,leen letters,10_050,نَوْ,nau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_050.wav,leen letters,ن,1.045
+QUAIDA_00554,L10_QUAIDA_10,10,leen letters,10_051,وَيْ,wai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_051.wav,leen letters,و,0.859
+QUAIDA_00555,L10_QUAIDA_10,10,leen letters,10_052,وَوْ,wau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_052.wav,leen letters,و,0.975
+QUAIDA_00556,L10_QUAIDA_10,10,leen letters,10_053,هَيْ,hai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_053.wav,leen letters,ه,1.045
+QUAIDA_00557,L10_QUAIDA_10,10,leen letters,10_054,هَوْ,hau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_054.wav,leen letters,ه,1.115
+QUAIDA_00558,L10_QUAIDA_10,10,leen letters,10_055,يَيْ,yai,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_055.wav,leen letters,ي,0.882
+QUAIDA_00559,L10_QUAIDA_10,10,leen letters,10_056,يَوْ,yau,C:/Users/PC/Desktop/Qaida_audios/10_Finalized leen letters/10_056.wav,leen letters,ي,0.929
+QUAIDA_00560,L11_QUAIDA_11,11,heavy letters,11_001,رَقَبَةٍ,raqabatin,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_001.wav,,,2.113
+QUAIDA_00561,L11_QUAIDA_11,11,heavy letters,11_002,صُحُفًا,suHufan,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_002.wav,,,1.997
+QUAIDA_00562,L11_QUAIDA_11,11,heavy letters,11_003,طَبَقٍ,tabaqin,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_003.wav,,,1.625
+QUAIDA_00563,L11_QUAIDA_11,11,heavy letters,11_004,اَخَذَ,akhazha,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_004.wav,,,1.37
+QUAIDA_00564,L11_QUAIDA_11,11,heavy letters,11_005,خَلَقَ,khalaqa,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_005.wav,,,1.556
+QUAIDA_00565,L11_QUAIDA_11,11,heavy letters,11_006,خَشِيَ,khashiya,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_006.wav,,,1.44
+QUAIDA_00566,L11_QUAIDA_11,11,heavy letters,11_007,طُوًى,tuwan,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_007.wav,,,1.115
+QUAIDA_00567,L11_QUAIDA_11,11,heavy letters,11_008,بَخِلَ,bakhila,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_008.wav,,,1.3
+QUAIDA_00568,L11_QUAIDA_11,11,heavy letters,11_009,خُلِقَ,khuliqa,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_009.wav,,,1.463
+QUAIDA_00569,L11_QUAIDA_11,11,heavy letters,11_010,وَسَقَ,wasaqa,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_010.wav,,,1.672
+QUAIDA_00570,L11_QUAIDA_11,11,heavy letters,11_011,قُتِلَ,qutila,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_011.wav,,,1.509
+QUAIDA_00571,L11_QUAIDA_11,11,heavy letters,11_012,غَبَرَةٌ,ghabaratun,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_012.wav,,,1.881
+QUAIDA_00572,L11_QUAIDA_11,11,heavy letters,11_013,عَلَقٍ,alaqin,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_013.wav,,,1.741
+QUAIDA_00573,L11_QUAIDA_11,11,heavy letters,11_014,غَسَّاقًا,ghassaqan,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_014.wav,,,2.206
+QUAIDA_00574,L11_QUAIDA_11,11,heavy letters,11_015,وَسَطًا,wasaTan,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_015.wav,,,1.695
+QUAIDA_00575,L11_QUAIDA_11,11,heavy letters,11_016,قَدَرَ,qadara,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_016.wav,,,1.509
+QUAIDA_00576,L11_QUAIDA_11,11,heavy letters,11_017,قُرِئَ,quri'a,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_017.wav,,,1.602
+QUAIDA_00577,L11_QUAIDA_11,11,heavy letters,11_018,قَتَرَةٌ,qataratun,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_018.wav,,,2.113
+QUAIDA_00578,L11_QUAIDA_11,11,heavy letters,11_019,قَسَمٌ,qasamun,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_019.wav,,,1.625
+QUAIDA_00579,L11_QUAIDA_11,11,heavy letters,11_020,نَخِرَةً,nakhiratan,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_020.wav,,,2.276
+QUAIDA_00580,L11_QUAIDA_11,11,heavy letters,11_021,وَقَبَ,waqaba,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_021.wav,,,1.486
+QUAIDA_00581,L11_QUAIDA_11,11,heavy letters,11_022,خُسْرٍ,khusrin,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_022.wav,,,1.695
+QUAIDA_00582,L11_QUAIDA_11,11,heavy letters,11_023,سَبْقًا,sabqan,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_023.wav,,,1.834
+QUAIDA_00583,L11_QUAIDA_11,11,heavy letters,11_024,خَلْقًا,khalqan,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_024.wav,,,1.997
+QUAIDA_00584,L11_QUAIDA_11,11,heavy letters,11_025,عَصْفٍ,ASfin,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_025.wav,,,2.043
+QUAIDA_00585,L11_QUAIDA_11,11,heavy letters,11_026,غُلْبًـا,ghulban,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_026.wav,,,1.695
+QUAIDA_00586,L11_QUAIDA_11,11,heavy letters,11_027,غَرْقًا,gharqan,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_027.wav,,,1.927
+QUAIDA_00587,L11_QUAIDA_11,11,heavy letters,11_028,قَضْبًا,qadbhan,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_028.wav,,,1.672
+QUAIDA_00588,L11_QUAIDA_11,11,heavy letters,11_029,قَدْحًا,qaDhan,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_029.wav,,,1.695
+QUAIDA_00589,L11_QUAIDA_11,11,heavy letters,11_030,فَصْلٌ,faSlun,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_030.wav,,,2.09
+QUAIDA_00590,L11_QUAIDA_11,11,heavy letters,11_031,نَشْطًا,nashTan,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_031.wav,,,2.09
+QUAIDA_00591,L11_QUAIDA_11,11,heavy letters,11_032,نَخْلًا,nakhlan,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_032.wav,,,1.927
+QUAIDA_00592,L11_QUAIDA_11,11,heavy letters,11_033,لَغْوًا,laghwan,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_033.wav,,,1.788
+QUAIDA_00593,L11_QUAIDA_11,11,heavy letters,11_034,تَرْضٰى,tardha,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_034.wav,,,1.718
+QUAIDA_00594,L11_QUAIDA_11,11,heavy letters,11_035,اَبْقٰى,aBqaa,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_035.wav,,,1.788
+QUAIDA_00595,L11_QUAIDA_11,11,heavy letters,11_036,نَقْعًا,naqAan,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_036.wav,,,1.997
+QUAIDA_00596,L11_QUAIDA_11,11,heavy letters,11_037,يَخْشٰى,yakhshaa,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_037.wav,,,1.881
+QUAIDA_00597,L11_QUAIDA_11,11,heavy letters,11_038,يُغْنِيْ,yughnee,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_038.wav,,,1.788
+QUAIDA_00598,L11_QUAIDA_11,11,heavy letters,11_039,اَلْقَتْ,alqat,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_039.wav,,,1.579
+QUAIDA_00599,L11_QUAIDA_11,11,heavy letters,11_040,اِقْرَاْ,iQr'a,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_040.wav,,,1.672
+QUAIDA_00600,L11_QUAIDA_11,11,heavy letters,11_041,يَظُنُّ,yaZhunnu,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_041.wav,,,1.881
+QUAIDA_00601,L11_QUAIDA_11,11,heavy letters,11_042,يَحُضُّ,yaHuddu,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_042.wav,,,1.927
+QUAIDA_00602,L11_QUAIDA_11,11,heavy letters,11_043,قُوَّةٍ,quwwatin,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_043.wav,,,2.322
+QUAIDA_00603,L11_QUAIDA_11,11,heavy letters,11_044,قَدَّمَتْ,qaddamat,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_044.wav,,,1.533
+QUAIDA_00604,L11_QUAIDA_11,11,heavy letters,11_045,عُطِّلَتْ,AuTTilat,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_045.wav,,,1.741
+QUAIDA_00605,L11_QUAIDA_11,11,heavy letters,11_046,تَطَّلِعُ,taTTaliAu,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_046.wav,,,2.02
+QUAIDA_00606,L11_QUAIDA_11,11,heavy letters,11_047,قَيِّمَةٌ,qayyimatun,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_047.wav,,,2.461
+QUAIDA_00607,L11_QUAIDA_11,11,heavy letters,11_048,تَصَدّٰى,taSaddaa,C:/Users/PC/Desktop/Qaida_audios/11_finalized Heavy_Letters/11_048.wav,,,1.788
+QUAIDA_00608,L12_QUAIDA_12,12,heavy and light alif,12_001,قٓ,qaaf,C:/Users/PC/Desktop/Qaida_audios/12_finalized Heavy and Light Alif/12_001.wav,,,2.02
+QUAIDA_00609,L12_QUAIDA_12,12,heavy and light alif,12_002,صٓ,saad,C:/Users/PC/Desktop/Qaida_audios/12_finalized Heavy and Light Alif/12_002.wav,,,1.997
+QUAIDA_00610,L12_QUAIDA_12,12,heavy and light alif,12_003,صَلَاةِ,salati,C:/Users/PC/Desktop/Qaida_audios/12_finalized Heavy and Light Alif/12_003.wav,,,1.741
+QUAIDA_00611,L12_QUAIDA_12,12,heavy and light alif,12_004,اِيَّاكَ,iyyaaka,C:/Users/PC/Desktop/Qaida_audios/12_finalized Heavy and Light Alif/12_004.wav,,,1.95
+QUAIDA_00612,L12_QUAIDA_12,12,heavy and light alif,12_005,تَوَّابًا,tawwaaban,C:/Users/PC/Desktop/Qaida_audios/12_finalized Heavy and Light Alif/12_005.wav,,,2.438
+QUAIDA_00613,L12_QUAIDA_12,12,heavy and light alif,12_006,ثَجَّاجًا,thajjaajan,C:/Users/PC/Desktop/Qaida_audios/12_finalized Heavy and Light Alif/12_006.wav,,,2.229
+QUAIDA_00614,L12_QUAIDA_12,12,heavy and light alif,12_007,فَعَّالٌ,faAAalun,C:/Users/PC/Desktop/Qaida_audios/12_finalized Heavy and Light Alif/12_007.wav,,,2.694
+QUAIDA_00615,L12_QUAIDA_12,12,heavy and light alif,12_008,كِذَّابًا,kizhaban,C:/Users/PC/Desktop/Qaida_audios/12_finalized Heavy and Light Alif/12_008.wav,,,2.229
+QUAIDA_00616,L12_QUAIDA_12,12,heavy and light alif,12_009,اَيَّانَ,ayyana,C:/Users/PC/Desktop/Qaida_audios/12_finalized Heavy and Light Alif/12_009.wav,,,2.159
+QUAIDA_00617,L12_QUAIDA_12,12,heavy and light alif,12_010,غَسَّاقًا,ghassaqan,C:/Users/PC/Desktop/Qaida_audios/12_finalized Heavy and Light Alif/12_010.wav,,,2.09
+QUAIDA_00618,L12_QUAIDA_12,12,heavy and light alif,12_011,جَآءَ,jaa'a,C:/Users/PC/Desktop/Qaida_audios/12_finalized Heavy and Light Alif/12_011.wav,,,2.345
+QUAIDA_00619,L12_QUAIDA_12,12,heavy and light alif,12_012,مَآ اَصَابَ,maa'aSaaba,C:/Users/PC/Desktop/Qaida_audios/12_finalized Heavy and Light Alif/12_012.wav,,,3.158
+QUAIDA_00620,L13_QUAIDA_13,13,heavy and light laam,13_001,اللّٰهُ,allahu,C:/Users/PC/Desktop/Qaida_audios/13_Finalized Heavy and Light Laam/13_001.wav,,,2.113
+QUAIDA_00621,L13_QUAIDA_13,13,heavy and light laam,13_002,رَسُوْلُ اللّٰهِ,rasoolullahi,C:/Users/PC/Desktop/Qaida_audios/13_Finalized Heavy and Light Laam/13_002.wav,,,3.437
+QUAIDA_00622,L13_QUAIDA_13,13,heavy and light laam,13_003,قَالُوا اللّٰهُمَّ,qalullahumma,C:/Users/PC/Desktop/Qaida_audios/13_Finalized Heavy and Light Laam/13_003.wav,,,3.924
+QUAIDA_00623,L13_QUAIDA_13,13,heavy and light laam,13_004,بِسْمِ اللّٰهِ,bismillahi,C:/Users/PC/Desktop/Qaida_audios/13_Finalized Heavy and Light Laam/13_004.wav,,,2.972
+QUAIDA_00624,L13_QUAIDA_13,13,heavy and light laam,13_005,بِاللّٰهِ,billahi,C:/Users/PC/Desktop/Qaida_audios/13_Finalized Heavy and Light Laam/13_005.wav,,,2.183
+QUAIDA_00625,L13_QUAIDA_13,13,heavy and light laam,13_006,سَبِيْلِ اللّٰهِ,sabeelillahi,C:/Users/PC/Desktop/Qaida_audios/13_Finalized Heavy and Light Laam/13_006.wav,,,3.274
+QUAIDA_00626,L13_QUAIDA_13,13,heavy and light laam,13_007,أَعُوذُ بِاللّٰهِ,aAuzhubillahi,C:/Users/PC/Desktop/Qaida_audios/13_Finalized Heavy and Light Laam/13_007.wav,,,3.715
+QUAIDA_00627,L13_QUAIDA_13,13,heavy and light laam,13_008,فَصَلِّ,faSalli,C:/Users/PC/Desktop/Qaida_audios/13_Finalized Heavy and Light Laam/13_008.wav,,,2.043
+QUAIDA_00628,L13_QUAIDA_13,13,heavy and light laam,13_009,حِلٌّ,Hillun,C:/Users/PC/Desktop/Qaida_audios/13_Finalized Heavy and Light Laam/13_009.wav,,,1.741
+QUAIDA_00629,L13_QUAIDA_13,13,heavy and light laam,13_010,يُضِلُّ,yudhillu,C:/Users/PC/Desktop/Qaida_audios/13_Finalized Heavy and Light Laam/13_010.wav,,,2.067
+QUAIDA_00630,L13_QUAIDA_13,13,heavy and light laam,13_011,مِنَ اللّٰهِ,minallahi,C:/Users/PC/Desktop/Qaida_audios/13_Finalized Heavy and Light Laam/13_011.wav,,,2.763
+QUAIDA_00631,L13_QUAIDA_13,13,heavy and light laam,13_012,تَااللّٰهِ,taallahi,C:/Users/PC/Desktop/Qaida_audios/13_Finalized Heavy and Light Laam/13_012.wav,,,2.276
+QUAIDA_00632,L13_QUAIDA_13,13,heavy and light laam,13_013,لِلّٰهِ,lillahi,C:/Users/PC/Desktop/Qaida_audios/13_Finalized Heavy and Light Laam/13_013.wav,,,1.997
+QUAIDA_00633,L13_QUAIDA_13,13,heavy and light laam,13_014,سُبْحَانَكَ اللّٰهُمَّ,subHanakallahumma,C:/Users/PC/Desktop/Qaida_audios/13_Finalized Heavy and Light Laam/13_014.wav,,,5.364
+QUAIDA_00634,L13_QUAIDA_13,13,heavy and light laam,13_015,قُلِ اللّٰهُمَّ,qulillahumma,C:/Users/PC/Desktop/Qaida_audios/13_Finalized Heavy and Light Laam/13_015.wav,,,3.483
+QUAIDA_00635,L13_QUAIDA_13,13,heavy and light laam,13_016,تَجَلّٰى,tajallaa,C:/Users/PC/Desktop/Qaida_audios/13_Finalized Heavy and Light Laam/13_016.wav,,,1.927
+QUAIDA_00636,L13_QUAIDA_13,13,heavy and light laam,13_017,تَوَلّٰى,tawallaa,C:/Users/PC/Desktop/Qaida_audios/13_Finalized Heavy and Light Laam/13_017.wav,,,1.997
+QUAIDA_00637,L13_QUAIDA_13,13,heavy and light laam,13_018,صَلَاةِ,salaati,C:/Users/PC/Desktop/Qaida_audios/13_Finalized Heavy and Light Laam/13_018.wav,,,1.997
+QUAIDA_00638,L14_QUAIDA_14,14,heavy and light raa,14_001,حَشَرَ,hashara,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_001.wav,,,1.695
+QUAIDA_00639,L14_QUAIDA_14,14,heavy and light raa,14_002,بَرَرَةٍ,bararatin,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_002.wav,,,1.927
+QUAIDA_00640,L14_QUAIDA_14,14,heavy and light raa,14_003,اَمَرَ,amara,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_003.wav,,,1.486
+QUAIDA_00641,L14_QUAIDA_14,14,heavy and light raa,14_004,ذَكَرَ,zhakara,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_004.wav,,,1.486
+QUAIDA_00642,L14_QUAIDA_14,14,heavy and light raa,14_005,رَقَبَةٍ,raqabatin,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_005.wav,,,2.159
+QUAIDA_00643,L14_QUAIDA_14,14,heavy and light raa,14_006,رَفَعَ,rafAa,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_006.wav,,,1.44
+QUAIDA_00644,L14_QUAIDA_14,14,heavy and light raa,14_007,قَدَرَ,qadara,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_007.wav,,,1.486
+QUAIDA_00645,L14_QUAIDA_14,14,heavy and light raa,14_008,سَفَرَةٍ,safaratin,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_008.wav,,,2.415
+QUAIDA_00646,L14_QUAIDA_14,14,heavy and light raa,14_009,غَبَرَةٌ,ghabaratun,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_009.wav,,,2.252
+QUAIDA_00647,L14_QUAIDA_14,14,heavy and light raa,14_010,قَتَرَةٌ,qataratun,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_010.wav,,,2.461
+QUAIDA_00648,L14_QUAIDA_14,14,heavy and light raa,14_011,فُجِّرَتْ,fujjirat,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_011.wav,,,1.811
+QUAIDA_00649,L14_QUAIDA_14,14,heavy and light raa,14_012,نَخِرَةً,nakhiratan,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_012.wav,,,2.392
+QUAIDA_00650,L14_QUAIDA_14,14,heavy and light raa,14_013,خُسْرٍ,khusrin,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_013.wav,,,2.09
+QUAIDA_00651,L14_QUAIDA_14,14,heavy and light raa,14_014,كَفَرَ,kafara,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_014.wav,,,1.625
+QUAIDA_00652,L14_QUAIDA_14,14,heavy and light raa,14_015,يُسْرًا,yusran,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_015.wav,,,2.624
+QUAIDA_00653,L14_QUAIDA_14,14,heavy and light raa,14_016,سُيِّرَتْ,suyyirat,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_016.wav,,,1.974
+QUAIDA_00654,L14_QUAIDA_14,14,heavy and light raa,14_017,كُوِّرَتْ,kuwwirat,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_017.wav,,,1.602
+QUAIDA_00655,L14_QUAIDA_14,14,heavy and light raa,14_018,كَرَّةٌ,karratun,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_018.wav,,,2.183
+QUAIDA_00656,L14_QUAIDA_14,14,heavy and light raa,14_019,ذَرَّةٍ,zharratin,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_019.wav,,,2.438
+QUAIDA_00657,L14_QUAIDA_14,14,heavy and light raa,14_020,اِقْرَاْ,iQr'a,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_020.wav,,,1.37
+QUAIDA_00658,L14_QUAIDA_14,14,heavy and light raa,14_021,سُعِّرَتْ,suAAirat,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_021.wav,,,1.765
+QUAIDA_00659,L14_QUAIDA_14,14,heavy and light raa,14_022,تَرْضٰى,tardha,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_022.wav,,,1.927
+QUAIDA_00660,L14_QUAIDA_14,14,heavy and light raa,14_023,سُجِّرَتْ,sujjirat,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_023.wav,,,1.625
+QUAIDA_00661,L14_QUAIDA_14,14,heavy and light raa,14_024,نُيَسِّرُ,nuyassiru,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_024.wav,,,2.043
+QUAIDA_00662,L14_QUAIDA_14,14,heavy and light raa,14_025,سُرُرٌ,sururun,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_025.wav,,,1.858
+QUAIDA_00663,L14_QUAIDA_14,14,heavy and light raa,14_026,غَرْقًا,gharqan,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_026.wav,,,2.322
+QUAIDA_00664,L14_QUAIDA_14,14,heavy and light raa,14_027,كَمَآ اُرْسِلَ,kamaa'ursila,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_027.wav,,,3.274
+QUAIDA_00665,L14_QUAIDA_14,14,heavy and light raa,14_028,مُذَكِّرٌ,muzhakkirun,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_028.wav,,,2.531
+QUAIDA_00666,L14_QUAIDA_14,14,heavy and light raa,14_029,قُرِئَ,quri'a,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_029.wav,,,1.672
+QUAIDA_00667,L14_QUAIDA_14,14,heavy and light raa,14_030,عَشْرٍ,Ashrin,C:/Users/PC/Desktop/Qaida_audios/14_Finalized_Heavy_and_Light_Raa/14_030.wav,,,2.252
+QUAIDA_00668,L15_QUAIDA_15,15,gunnah,15_001,الٓمّٓ,alif-laammeem,C:/Users/PC/Desktop/Qaida_audios/15_finalized_Gunnah/15_001.wav,,,5.875
+QUAIDA_00669,L15_QUAIDA_15,15,gunnah,15_002,الٓمّٓصٓ,alif-laam-meem-saad,C:/Users/PC/Desktop/Qaida_audios/15_finalized_Gunnah/15_002.wav,,,7.5
+QUAIDA_00670,L15_QUAIDA_15,15,gunnah,15_003,الٓمّٓرٰ,alif-laam-meem-raa,C:/Users/PC/Desktop/Qaida_audios/15_finalized_Gunnah/15_003.wav,,,6.316
+QUAIDA_00671,L15_QUAIDA_15,15,gunnah,15_004,طٰسٓمّٓ,taa-seen-meem,C:/Users/PC/Desktop/Qaida_audios/15_finalized_Gunnah/15_004.wav,,,5.039
+QUAIDA_00672,L15_QUAIDA_15,15,gunnah,15_005,كٓهٰيٰعٓصٓ,kaaf-ha-ya-Ain-Saad,C:/Users/PC/Desktop/Qaida_audios/15_finalized_Gunnah/15_005.wav,,,6.571
+QUAIDA_00673,L15_QUAIDA_15,15,gunnah,15_006,يَظُنُّ,yaZunnu,C:/Users/PC/Desktop/Qaida_audios/15_finalized_Gunnah/15_006.wav,,,2.67
+QUAIDA_00674,L15_QUAIDA_15,15,gunnah,15_007,حٰمٓ  عٓسٓقٓ,"haa-meem,ain-seen-qaaf",C:/Users/PC/Desktop/Qaida_audios/15_finalized_Gunnah/15_007.wav,,,8.777
+QUAIDA_00675,L15_QUAIDA_15,15,gunnah,15_008,سُبْحٰانَكَ اللّٰهُمَّ,subhaanakallahumma,C:/Users/PC/Desktop/Qaida_audios/15_finalized_Gunnah/15_008.wav,,,5.48
+QUAIDA_00676,L15_QUAIDA_15,15,gunnah,15_009,جَنَّةٍ,jannatin,C:/Users/PC/Desktop/Qaida_audios/15_finalized_Gunnah/15_009.wav,,,2.926
+QUAIDA_00677,L15_QUAIDA_15,15,gunnah,15_010,قَالُو االلّٰهُمَّ,qaalullahumma,C:/Users/PC/Desktop/Qaida_audios/15_finalized_Gunnah/15_010.wav,,,4.783
+QUAIDA_00678,L15_QUAIDA_15,15,gunnah,15_011,قُلِ اللّٰهُمَّ,qulillahumma,C:/Users/PC/Desktop/Qaida_audios/15_finalized_Gunnah/15_011.wav,,,3.855
+QUAIDA_00679,L16_QUAIDA_16,16,hurof mukatat,16_001,طٰسٓ,ta-seen,C:/Users/PC/Desktop/Qaida_audios/16_finalized_hurof mukatat/16_001.wav,,,3.181
+QUAIDA_00680,L16_QUAIDA_16,16,hurof mukatat,16_002,يٰسٓ,ya-seen,C:/Users/PC/Desktop/Qaida_audios/16_finalized_hurof mukatat/16_002.wav,,,3.622
+QUAIDA_00681,L16_QUAIDA_16,16,hurof mukatat,16_003,نٓ,noon,C:/Users/PC/Desktop/Qaida_audios/16_finalized_hurof mukatat/16_003.wav,,,2.995
+QUAIDA_00682,L16_QUAIDA_16,16,hurof mukatat,16_004,صٓ,saad,C:/Users/PC/Desktop/Qaida_audios/16_finalized_hurof mukatat/16_004.wav,,,2.113
+QUAIDA_00683,L16_QUAIDA_16,16,hurof mukatat,16_005,قٓ,qaaf,C:/Users/PC/Desktop/Qaida_audios/16_finalized_hurof mukatat/16_005.wav,,,2.113
+QUAIDA_00684,L16_QUAIDA_16,16,hurof mukatat,16_006,طٰهٰ,ta-ha,C:/Users/PC/Desktop/Qaida_audios/16_finalized_hurof mukatat/16_006.wav,,,1.927
+QUAIDA_00685,L16_QUAIDA_16,16,hurof mukatat,16_007,الٓرٰ,alif-laam-raa,C:/Users/PC/Desktop/Qaida_audios/16_finalized_hurof mukatat/16_007.wav,,,4.156
+QUAIDA_00686,L16_QUAIDA_16,16,hurof mukatat,16_008,الٓمّٓ,alif-laam-meem,C:/Users/PC/Desktop/Qaida_audios/16_finalized_hurof mukatat/16_008.wav,,,5.062
+QUAIDA_00687,L16_QUAIDA_16,16,hurof mukatat,16_009,طٰسٓمّٓ,Ta-seen-meem,C:/Users/PC/Desktop/Qaida_audios/16_finalized_hurof mukatat/16_009.wav,,,4.783
+QUAIDA_00688,L16_QUAIDA_16,16,hurof mukatat,16_010,حٰمٓ عٓسٓقٓ,Haa-meem-ain-seen-qaaf,C:/Users/PC/Desktop/Qaida_audios/16_finalized_hurof mukatat/16_010.wav,,,7.802
+QUAIDA_00689,L16_QUAIDA_16,16,hurof mukatat,16_011,حٰمٓ,ha-meem,C:/Users/PC/Desktop/Qaida_audios/16_finalized_hurof mukatat/16_011.wav,,,3.344
+QUAIDA_00690,L16_QUAIDA_16,16,hurof mukatat,16_012,الٓمّٓصٓ,alif-laam-meem-saad,C:/Users/PC/Desktop/Qaida_audios/16_finalized_hurof mukatat/16_012.wav,,,5.457
+QUAIDA_00691,L16_QUAIDA_16,16,hurof mukatat,16_013,كٓهٰيٰعٓصٓ,kaaf-ha-ya-Ain-Saad,C:/Users/PC/Desktop/Qaida_audios/16_finalized_hurof mukatat/16_013.wav,,,7.245
+QUAIDA_00692,L16_QUAIDA_16,16,hurof mukatat,16_014,الٓمّٓرٰ,alif-laam-meem-raa,C:/Users/PC/Desktop/Qaida_audios/16_finalized_hurof mukatat/16_014.wav,,,5.805

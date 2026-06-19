@@ -1,0 +1,938 @@
+[
+  {
+    "stt_score": 0.0,
+    "predicted_text": "زَاْتِرَاَتُمْ اَلَيْكُمُ اَدْرَيُ",
+    "expected_text": "ز",
+    "cer": 33.0,
+    "audio_id": "01_011",
+    "lesson_num": 1,
+    "type": "alphabet"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "ظٰدْ",
+    "expected_text": "ض",
+    "cer": 4.0,
+    "audio_id": "01_015",
+    "lesson_num": 1,
+    "type": "alphabet"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "غيّنْ",
+    "expected_text": "غ",
+    "cer": 4.0,
+    "audio_id": "01_019",
+    "lesson_num": 1,
+    "type": "alphabet"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "لٰمْ",
+    "expected_text": "ل",
+    "cer": 3.0,
+    "audio_id": "01_023",
+    "lesson_num": 1,
+    "type": "alphabet"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "کآفاٗفْاٰفْ الِفْ",
+    "expected_text": "کا",
+    "cer": 8.0,
+    "audio_id": "02_004",
+    "lesson_num": 2,
+    "type": "shapes"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "بسىْٗ",
+    "expected_text": "بس",
+    "cer": 1.5,
+    "audio_id": "02_010",
+    "lesson_num": 2,
+    "type": "shapes"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "نمٖمْ",
+    "expected_text": "نم",
+    "cer": 1.5,
+    "audio_id": "02_022",
+    "lesson_num": 2,
+    "type": "shapes"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "ثمٓمْ",
+    "expected_text": "ثم",
+    "cer": 1.5,
+    "audio_id": "02_026",
+    "lesson_num": 2,
+    "type": "shapes"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "تمٓمْ",
+    "expected_text": "تم",
+    "cer": 1.5,
+    "audio_id": "02_027",
+    "lesson_num": 2,
+    "type": "shapes"
+  },
+  {
+    "stt_score": 0.3333,
+    "predicted_text": "یتلمْ",
+    "expected_text": "یتل",
+    "cer": 0.6667,
+    "audio_id": "02_035",
+    "lesson_num": 2,
+    "type": "shapes"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "ینوٗ",
+    "expected_text": "یتن",
+    "cer": 1.0,
+    "audio_id": "02_042",
+    "lesson_num": 2,
+    "type": "shapes"
+  },
+  {
+    "stt_score": 0.5,
+    "predicted_text": "طبى",
+    "expected_text": "طب",
+    "cer": 0.5,
+    "audio_id": "02_064",
+    "lesson_num": 2,
+    "type": "shapes"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "ضغيّنْ",
+    "expected_text": "ضغ",
+    "cer": 2.0,
+    "audio_id": "02_071",
+    "lesson_num": 2,
+    "type": "shapes"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "صعيٰلْعَيْلْ",
+    "expected_text": "صع",
+    "cer": 5.0,
+    "audio_id": "02_072",
+    "lesson_num": 2,
+    "type": "shapes"
+  },
+  {
+    "stt_score": 0.3333,
+    "predicted_text": "تغذال",
+    "expected_text": "تغذ",
+    "cer": 0.6667,
+    "audio_id": "02_075",
+    "lesson_num": 2,
+    "type": "shapes"
+  },
+  {
+    "stt_score": 0.3333,
+    "predicted_text": "قفلام",
+    "expected_text": "قفل",
+    "cer": 0.6667,
+    "audio_id": "02_081",
+    "lesson_num": 2,
+    "type": "shapes"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "اُتْتِىٰمْسَاَاْمْتَاًَّاَّمْمَ",
+    "expected_text": "اُ",
+    "cer": 14.5,
+    "audio_id": "03_003",
+    "lesson_num": 3,
+    "type": "harakat"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "بِىْتَاَاْمُوْاَوَاُّوَّاُوَوُّوا",
+    "expected_text": "بِ",
+    "cer": 15.5,
+    "audio_id": "03_005",
+    "lesson_num": 3,
+    "type": "harakat"
+  },
+  {
+    "stt_score": 1.0,
+    "predicted_text": "جِ",
+    "expected_text": "جِ",
+    "cer": 0.0,
+    "audio_id": "03_014",
+    "lesson_num": 3,
+    "type": "harakat"
+  },
+  {
+    "stt_score": 1.0,
+    "predicted_text": "دِ",
+    "expected_text": "دِ",
+    "cer": 0.0,
+    "audio_id": "03_023",
+    "lesson_num": 3,
+    "type": "harakat"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "ذِىْتَاَاْمُوْاَوَاُوَوْمَاُّوَّ",
+    "expected_text": "ذِ",
+    "cer": 15.0,
+    "audio_id": "03_026",
+    "lesson_num": 3,
+    "type": "harakat"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "ظُوْاَتُمْبُوَّاَمُواْمُوَاْمْمَا",
+    "expected_text": "ضُ",
+    "cer": 16.0,
+    "audio_id": "03_045",
+    "lesson_num": 3,
+    "type": "harakat"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "رُوْ",
+    "expected_text": "عُ",
+    "cer": 1.5,
+    "audio_id": "03_054",
+    "lesson_num": 3,
+    "type": "harakat"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "فَاْتُمْبُمُبْمُمُّمَاُّتُنَّاَا",
+    "expected_text": "فَ",
+    "cer": 15.0,
+    "audio_id": "03_058",
+    "lesson_num": 3,
+    "type": "harakat"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "فُوْاَتْكُمْ اَمَا تَمْلُونَ امَدُونُ",
+    "expected_text": "فُ",
+    "cer": 17.5,
+    "audio_id": "03_060",
+    "lesson_num": 3,
+    "type": "harakat"
+  },
+  {
+    "stt_score": 1.0,
+    "predicted_text": "كِ",
+    "expected_text": "كِ",
+    "cer": 0.0,
+    "audio_id": "03_065",
+    "lesson_num": 3,
+    "type": "harakat"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "لَاْمُواْمْ وَالْمَا وَوَاَّمُونَ وَلّ",
+    "expected_text": "لَ",
+    "cer": 18.0,
+    "audio_id": "03_067",
+    "lesson_num": 3,
+    "type": "harakat"
+  },
+  {
+    "stt_score": 0.5,
+    "predicted_text": "اُ",
+    "expected_text": "وُ",
+    "cer": 0.5,
+    "audio_id": "03_078",
+    "lesson_num": 3,
+    "type": "harakat"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "يَاْتُمْ وَالْمُؤْمِنَاَاُّمُواْمْو",
+    "expected_text": "يَ",
+    "cer": 16.5,
+    "audio_id": "03_082",
+    "lesson_num": 3,
+    "type": "harakat"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "ثَاْ",
+    "expected_text": "ثٰ",
+    "cer": 1.5,
+    "audio_id": "04_010",
+    "lesson_num": 4,
+    "type": "long voices"
+  },
+  {
+    "stt_score": 1.0,
+    "predicted_text": "ثٖ",
+    "expected_text": "ثٖ",
+    "cer": 0.0,
+    "audio_id": "04_011",
+    "lesson_num": 4,
+    "type": "long voices"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "جٰىْ",
+    "expected_text": "جٰ",
+    "cer": 1.0,
+    "audio_id": "04_013",
+    "lesson_num": 4,
+    "type": "long voices"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "خٰىْ",
+    "expected_text": "خٰ",
+    "cer": 1.0,
+    "audio_id": "04_019",
+    "lesson_num": 4,
+    "type": "long voices"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "خٖىْ",
+    "expected_text": "خٖ",
+    "cer": 1.0,
+    "audio_id": "04_020",
+    "lesson_num": 4,
+    "type": "long voices"
+  },
+  {
+    "stt_score": 1.0,
+    "predicted_text": "صٗ",
+    "expected_text": "صٗ",
+    "cer": 0.0,
+    "audio_id": "04_039",
+    "lesson_num": 4,
+    "type": "long voices"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "ضٰءٰ",
+    "expected_text": "ظٰ",
+    "cer": 1.5,
+    "audio_id": "04_046",
+    "lesson_num": 4,
+    "type": "long voices"
+  },
+  {
+    "stt_score": 1.0,
+    "predicted_text": "فٗ",
+    "expected_text": "فٗ",
+    "cer": 0.0,
+    "audio_id": "04_057",
+    "lesson_num": 4,
+    "type": "long voices"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "طٖىْ",
+    "expected_text": "قٖ",
+    "cer": 1.5,
+    "audio_id": "04_059",
+    "lesson_num": 4,
+    "type": "long voices"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "هَاْتُمْ اَمَاَتُواْ اِلَيْكُمُ اَدْ",
+    "expected_text": "هٰ",
+    "cer": 17.5,
+    "audio_id": "04_064",
+    "lesson_num": 4,
+    "type": "long voices"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "تٌِِّْْْيْتُنِّيِّنْسِنِيِنِّّسِ",
+    "expected_text": "تٌ",
+    "cer": 15.0,
+    "audio_id": "05_009",
+    "lesson_num": 5,
+    "type": "tanween"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "حًِّْْْيْتُمْ لِمَا اُدْمُونَ اِلَيْ",
+    "expected_text": "حً",
+    "cer": 17.0,
+    "audio_id": "05_016",
+    "lesson_num": 5,
+    "type": "tanween"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "حٍَْْْاْمُونَاَاُمُواَاُّمَاِنُواْم",
+    "expected_text": "حٍ",
+    "cer": 16.5,
+    "audio_id": "05_017",
+    "lesson_num": 5,
+    "type": "tanween"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "حٌَْْْاْمُواْمْْواْماْمَاَمُونَمَمْم",
+    "expected_text": "حٌ",
+    "cer": 17.0,
+    "audio_id": "05_018",
+    "lesson_num": 5,
+    "type": "tanween"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "دٍّْ",
+    "expected_text": "دٍ",
+    "cer": 1.0,
+    "audio_id": "05_023",
+    "lesson_num": 5,
+    "type": "tanween"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "دٌّْ",
+    "expected_text": "دٌ",
+    "cer": 1.0,
+    "audio_id": "05_024",
+    "lesson_num": 5,
+    "type": "tanween"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "شٌَْْْاَدُواْمُواَاُمُونَاِمُوَاِّم",
+    "expected_text": "شٌ",
+    "cer": 16.5,
+    "audio_id": "05_039",
+    "lesson_num": 5,
+    "type": "tanween"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "صٌْْْ",
+    "expected_text": "صٌ",
+    "cer": 1.5,
+    "audio_id": "05_042",
+    "lesson_num": 5,
+    "type": "tanween"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "قٍْْْ",
+    "expected_text": "كٍ",
+    "cer": 2.0,
+    "audio_id": "05_065",
+    "lesson_num": 5,
+    "type": "tanween"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "كٌْْْ",
+    "expected_text": "كٌ",
+    "cer": 1.5,
+    "audio_id": "05_066",
+    "lesson_num": 5,
+    "type": "tanween"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "نًّْْْ",
+    "expected_text": "نً",
+    "cer": 2.0,
+    "audio_id": "05_073",
+    "lesson_num": 5,
+    "type": "tanween"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "وٍْْْ",
+    "expected_text": "وٍ",
+    "cer": 1.5,
+    "audio_id": "05_077",
+    "lesson_num": 5,
+    "type": "tanween"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "هٍَْْْاْمُونَاَاُمُواْمْوَاُّوْمَا",
+    "expected_text": "هٍ",
+    "cer": 16.0,
+    "audio_id": "05_080",
+    "lesson_num": 5,
+    "type": "tanween"
+  },
+  {
+    "stt_score": 1.0,
+    "predicted_text": "اُتْ",
+    "expected_text": "اُتْ",
+    "cer": 0.0,
+    "audio_id": "06_006",
+    "lesson_num": 6,
+    "type": "sukoon"
+  },
+  {
+    "stt_score": 1.0,
+    "predicted_text": "اِثْ",
+    "expected_text": "اِثْ",
+    "cer": 0.0,
+    "audio_id": "06_008",
+    "lesson_num": 6,
+    "type": "sukoon"
+  },
+  {
+    "stt_score": 0.75,
+    "predicted_text": "اَحْْ",
+    "expected_text": "اَحْ",
+    "cer": 0.25,
+    "audio_id": "06_013",
+    "lesson_num": 6,
+    "type": "sukoon"
+  },
+  {
+    "stt_score": 0.5,
+    "predicted_text": "اَزْتِ",
+    "expected_text": "اَزْ",
+    "cer": 0.5,
+    "audio_id": "06_028",
+    "lesson_num": 6,
+    "type": "sukoon"
+  },
+  {
+    "stt_score": 0.5,
+    "predicted_text": "اِسْْْ",
+    "expected_text": "اِسْ",
+    "cer": 0.5,
+    "audio_id": "06_032",
+    "lesson_num": 6,
+    "type": "sukoon"
+  },
+  {
+    "stt_score": 0.25,
+    "predicted_text": "اِغْْْ",
+    "expected_text": "اِضْ",
+    "cer": 0.75,
+    "audio_id": "06_041",
+    "lesson_num": 6,
+    "type": "sukoon"
+  },
+  {
+    "stt_score": 0.5,
+    "predicted_text": "اِطْاِ",
+    "expected_text": "اِطْ",
+    "cer": 0.5,
+    "audio_id": "06_044",
+    "lesson_num": 6,
+    "type": "sukoon"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "اَتَّاْمُواْمْ اَتَّْ اَدْتُمْ وَاُد",
+    "expected_text": "اَتَّ",
+    "cer": 6.2,
+    "audio_id": "07_004",
+    "lesson_num": 7,
+    "type": "shaddah"
+  },
+  {
+    "stt_score": 0.6,
+    "predicted_text": "اُتَّاْ",
+    "expected_text": "اُتَّ",
+    "cer": 0.4,
+    "audio_id": "07_006",
+    "lesson_num": 7,
+    "type": "shaddah"
+  },
+  {
+    "stt_score": 0.8571,
+    "predicted_text": "عَبْدًاْ",
+    "expected_text": "عَبْدًا",
+    "cer": 0.1429,
+    "audio_id": "08_002",
+    "lesson_num": 8,
+    "type": "qalqalah"
+  },
+  {
+    "stt_score": 1.0,
+    "predicted_text": "اِقْرَاْ",
+    "expected_text": "اِقْرَاْ",
+    "cer": 0.0,
+    "audio_id": "08_004",
+    "lesson_num": 8,
+    "type": "qalqalah"
+  },
+  {
+    "stt_score": 1.0,
+    "predicted_text": "تِىْ",
+    "expected_text": "تِىْ",
+    "cer": 0.0,
+    "audio_id": "09_008",
+    "lesson_num": 9,
+    "type": "madd"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "دُوْاْتَ اَلَيْكَ وَالْمَا اَدْتِىٰ",
+    "expected_text": "دُوْ",
+    "cer": 7.75,
+    "audio_id": "09_024",
+    "lesson_num": 9,
+    "type": "madd"
+  },
+  {
+    "stt_score": 0.5,
+    "predicted_text": "رٖى",
+    "expected_text": "رِىْ",
+    "cer": 0.5,
+    "audio_id": "09_029",
+    "lesson_num": 9,
+    "type": "madd"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "سَاْاْ",
+    "expected_text": "سَا",
+    "cer": 1.0,
+    "audio_id": "09_034",
+    "lesson_num": 9,
+    "type": "madd"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "سِىْاْاَاَ اَبْرَاِتِكُمْ اَدْرِاَ",
+    "expected_text": "سِىْ",
+    "cer": 7.5,
+    "audio_id": "09_035",
+    "lesson_num": 9,
+    "type": "madd"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "شَاْاْتِرَاَاِبِبْشَيَاِّبُبْسِي",
+    "expected_text": "شَا",
+    "cer": 9.6667,
+    "audio_id": "09_037",
+    "lesson_num": 9,
+    "type": "madd"
+  },
+  {
+    "stt_score": 0.5,
+    "predicted_text": "شْٖٖ",
+    "expected_text": "شِىْ",
+    "cer": 0.5,
+    "audio_id": "09_038",
+    "lesson_num": 9,
+    "type": "madd"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "ضَاْاْتُمْ اِلَيْهِ اِدْمُواْ اَدْبُ",
+    "expected_text": "ظَا",
+    "cer": 11.3333,
+    "audio_id": "09_049",
+    "lesson_num": 9,
+    "type": "madd"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "عُوْاْتَ اَمْرَا اَنْتُمْ اَلَا وَاَ",
+    "expected_text": "عُوْ",
+    "cer": 8.0,
+    "audio_id": "09_054",
+    "lesson_num": 9,
+    "type": "madd"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "قَاْاْ",
+    "expected_text": "قَا",
+    "cer": 1.0,
+    "audio_id": "09_061",
+    "lesson_num": 9,
+    "type": "madd"
+  },
+  {
+    "stt_score": 1.0,
+    "predicted_text": "لِىْ",
+    "expected_text": "لِىْ",
+    "cer": 0.0,
+    "audio_id": "09_068",
+    "lesson_num": 9,
+    "type": "madd"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "لُوْاْتُمْ بِالْمَا وَالْلَا يُدْرُونَ",
+    "expected_text": "لُوْ",
+    "cer": 8.5,
+    "audio_id": "09_069",
+    "lesson_num": 9,
+    "type": "madd"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "وَاْتِ الْمُرْكِ وَالْمَا وَاَتْهُمْ و",
+    "expected_text": "وَا",
+    "cer": 11.6667,
+    "audio_id": "09_079",
+    "lesson_num": 9,
+    "type": "madd"
+  },
+  {
+    "stt_score": 0.75,
+    "predicted_text": "اَوْا",
+    "expected_text": "اَوْ",
+    "cer": 0.25,
+    "audio_id": "10_002",
+    "lesson_num": 10,
+    "type": "leen letters"
+  },
+  {
+    "stt_score": 0.5,
+    "predicted_text": "جَيْءُ",
+    "expected_text": "جَيْ",
+    "cer": 0.5,
+    "audio_id": "10_009",
+    "lesson_num": 10,
+    "type": "leen letters"
+  },
+  {
+    "stt_score": 0.5,
+    "predicted_text": "حَيْءَ",
+    "expected_text": "حَيْ",
+    "cer": 0.5,
+    "audio_id": "10_011",
+    "lesson_num": 10,
+    "type": "leen letters"
+  },
+  {
+    "stt_score": 0.5,
+    "predicted_text": "دَيْءِ",
+    "expected_text": "دَيْ",
+    "cer": 0.5,
+    "audio_id": "10_015",
+    "lesson_num": 10,
+    "type": "leen letters"
+  },
+  {
+    "stt_score": 0.5,
+    "predicted_text": "نَيْءِ",
+    "expected_text": "نَيْ",
+    "cer": 0.5,
+    "audio_id": "10_049",
+    "lesson_num": 10,
+    "type": "leen letters"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "وَيْءُمْ",
+    "expected_text": "وَيْ",
+    "cer": 1.0,
+    "audio_id": "10_051",
+    "lesson_num": 10,
+    "type": "leen letters"
+  },
+  {
+    "stt_score": 0.5,
+    "predicted_text": "يَيْءُ",
+    "expected_text": "يَيْ",
+    "cer": 0.5,
+    "audio_id": "10_055",
+    "lesson_num": 10,
+    "type": "leen letters"
+  },
+  {
+    "stt_score": 0.5,
+    "predicted_text": "يَوْءُ",
+    "expected_text": "يَوْ",
+    "cer": 0.5,
+    "audio_id": "10_056",
+    "lesson_num": 10,
+    "type": "leen letters"
+  },
+  {
+    "stt_score": 1.0,
+    "predicted_text": "خُلِقَ",
+    "expected_text": "خُلِقَ",
+    "cer": 0.0,
+    "audio_id": "11_009",
+    "lesson_num": 11,
+    "type": "heavy letters"
+  },
+  {
+    "stt_score": 0.6667,
+    "predicted_text": "قُتِلَاْ",
+    "expected_text": "قُتِلَ",
+    "cer": 0.3333,
+    "audio_id": "11_011",
+    "lesson_num": 11,
+    "type": "heavy letters"
+  },
+  {
+    "stt_score": 0.625,
+    "predicted_text": "غَبَرَةٌْْْ",
+    "expected_text": "غَبَرَةٌ",
+    "cer": 0.375,
+    "audio_id": "11_012",
+    "lesson_num": 11,
+    "type": "heavy letters"
+  },
+  {
+    "stt_score": 0.6667,
+    "predicted_text": "قُرِئَاْ",
+    "expected_text": "قُرِئَ",
+    "cer": 0.3333,
+    "audio_id": "11_017",
+    "lesson_num": 11,
+    "type": "heavy letters"
+  },
+  {
+    "stt_score": 0.5,
+    "predicted_text": "فَصْلٌْْْ",
+    "expected_text": "فَصْلٌ",
+    "cer": 0.5,
+    "audio_id": "11_030",
+    "lesson_num": 11,
+    "type": "heavy letters"
+  },
+  {
+    "stt_score": 0.7143,
+    "predicted_text": "اَبْقٰاْ",
+    "expected_text": "اَبْقٰى",
+    "cer": 0.2857,
+    "audio_id": "11_035",
+    "lesson_num": 11,
+    "type": "heavy letters"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "يَحُظْلُ,ْاَبْرَيْنَاً،َبَرْضُونَ",
+    "expected_text": "يَحُضُّ",
+    "cer": 4.0,
+    "audio_id": "11_042",
+    "lesson_num": 11,
+    "type": "heavy letters"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "قٰفْ",
+    "expected_text": "قٓ",
+    "cer": 1.5,
+    "audio_id": "12_001",
+    "lesson_num": 12,
+    "type": "heavy and light alif"
+  },
+  {
+    "stt_score": 0.5,
+    "predicted_text": "صْٓ",
+    "expected_text": "صٓ",
+    "cer": 0.5,
+    "audio_id": "12_002",
+    "lesson_num": 12,
+    "type": "heavy and light alif"
+  },
+  {
+    "stt_score": 0.9375,
+    "predicted_text": "رَسُولُ اللّٰهِ",
+    "expected_text": "رَسُوْلُ اللّٰهِ",
+    "cer": 0.0625,
+    "audio_id": "13_002",
+    "lesson_num": 13,
+    "type": "heavy and light laam"
+  },
+  {
+    "stt_score": 0.7,
+    "predicted_text": "تَلّٰهِ",
+    "expected_text": "تَااللّٰهِ",
+    "cer": 0.3,
+    "audio_id": "13_012",
+    "lesson_num": 13,
+    "type": "heavy and light laam"
+  },
+  {
+    "stt_score": 1.0,
+    "predicted_text": "صَلَاةِ",
+    "expected_text": "صَلَاةِ",
+    "cer": 0.0,
+    "audio_id": "13_018",
+    "lesson_num": 13,
+    "type": "heavy and light laam"
+  },
+  {
+    "stt_score": 0.625,
+    "predicted_text": "بَرَةٍْ",
+    "expected_text": "بَرَرَةٍ",
+    "cer": 0.375,
+    "audio_id": "14_002",
+    "lesson_num": 14,
+    "type": "heavy and light raa"
+  },
+  {
+    "stt_score": 0.6667,
+    "predicted_text": "رَفَعَاْ",
+    "expected_text": "رَفَعَ",
+    "cer": 0.3333,
+    "audio_id": "14_006",
+    "lesson_num": 14,
+    "type": "heavy and light raa"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "تَرٰىِِْْْيْنَاْتُمُواْسُمْسَمُون",
+    "expected_text": "تَرْضٰى",
+    "cer": 4.1429,
+    "audio_id": "14_022",
+    "lesson_num": 14,
+    "type": "heavy and light raa"
+  },
+  {
+    "stt_score": 1.0,
+    "predicted_text": "نُيَسِّرُ",
+    "expected_text": "نُيَسِّرُ",
+    "cer": 0.0,
+    "audio_id": "14_024",
+    "lesson_num": 14,
+    "type": "heavy and light raa"
+  },
+  {
+    "stt_score": 0.4286,
+    "predicted_text": "يَظُنُواْ",
+    "expected_text": "يَظُنُّ",
+    "cer": 0.5714,
+    "audio_id": "15_006",
+    "lesson_num": 15,
+    "type": "gunnah"
+  },
+  {
+    "stt_score": 0.9167,
+    "predicted_text": "حٰمٓ عٓسٓقٓ",
+    "expected_text": "حٰمٓ  عٓسٓقٓ",
+    "cer": 0.0833,
+    "audio_id": "15_007",
+    "lesson_num": 15,
+    "type": "gunnah"
+  },
+  {
+    "stt_score": 0.0,
+    "predicted_text": "يسٓىٰسهْـِّْٓٓٓٓٓ ا١ٰ�س",
+    "expected_text": "يٰسٓ",
+    "cer": 4.75,
+    "audio_id": "16_002",
+    "lesson_num": 16,
+    "type": "hurof mukatat"
+  },
+  {
+    "stt_score": 0.75,
+    "predicted_text": "الٓمّٓ",
+    "expected_text": "الٓمّٓرٰ",
+    "cer": 0.25,
+    "audio_id": "16_014",
+    "lesson_num": 16,
+    "type": "hurof mukatat"
+  }
+]

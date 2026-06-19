@@ -1,0 +1,6 @@
+{
+  "base_model": "facebook/wav2vec2-base",
+  "proj_dim": 256,
+  "freeze_layers": 6,
+  "hidden_size": 768
+}
