@@ -12,15 +12,31 @@ import librosa
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
-from transformers import Wav2Vec2FeatureExtractor, Wav2Vec2Model
+from transformers import Wav2Vec2Config, Wav2Vec2FeatureExtractor, Wav2Vec2Model
+
+
+def resolve_encoder_config(model_name, finetuned_dir=None):
+    """Build the encoder config without downloading the 1.2GB pretrained checkpoint.
+
+    A fine-tuned model.pt covers every encoder parameter, so from_pretrained()
+    would fetch 1.2GB only to have it immediately overwritten. We need the
+    architecture, not the weights. Prefers a local encoder_config.json so a cold
+    container never touches the network; falls back to the hub (~2KB of JSON).
+    """
+    if finetuned_dir:
+        local_cfg = os.path.join(finetuned_dir, "encoder_config.json")
+        if os.path.exists(local_cfg):
+            return Wav2Vec2Config.from_json_file(local_cfg)
+    return Wav2Vec2Config.from_pretrained(model_name)
 
 
 class ContrastiveWav2Vec2(nn.Module):
     """wav2vec2/XLSR-53 encoder + projection head (must match training architecture)."""
 
-    def __init__(self, model_name, proj_dim=128, hidden_size=1024):
+    def __init__(self, model_name, proj_dim=128, hidden_size=1024, encoder_config=None):
         super().__init__()
-        self.encoder = Wav2Vec2Model.from_pretrained(model_name)
+        # Weights come from model.pt, so build the architecture from config only.
+        self.encoder = Wav2Vec2Model(encoder_config or resolve_encoder_config(model_name))
         # v2 projection: hidden → 512 → proj_dim with BatchNorm
         # v1 projection: hidden → hidden → proj_dim (no BatchNorm)
         # Detect from proj_dim and hidden_size which version
@@ -58,9 +74,9 @@ class ContrastiveWav2Vec2(nn.Module):
 class ContrastiveWav2Vec2V1(nn.Module):
     """v1 architecture (wav2vec2-base, hidden→hidden→proj_dim, no BatchNorm)."""
 
-    def __init__(self, model_name, proj_dim=256, hidden_size=768):
+    def __init__(self, model_name, proj_dim=256, hidden_size=768, encoder_config=None):
         super().__init__()
-        self.encoder = Wav2Vec2Model.from_pretrained(model_name)
+        self.encoder = Wav2Vec2Model(encoder_config or resolve_encoder_config(model_name))
         self.projection = nn.Sequential(
             nn.Linear(hidden_size, hidden_size),
             nn.ReLU(),
@@ -98,6 +114,10 @@ class ReferenceEmbeddingExtractor:
         self.device = device or ("cuda" if torch.cuda.is_available() else "cpu")
         self.target_sr = 16000
         self.use_finetuned = False
+        # fp16 is a GPU optimisation. x86 CPUs have no native fp16 compute path,
+        # so torch emulates it via fp32 up/downconversion on every op — measured
+        # ~16x slower than plain fp32 on CPU. Only cast when we're on CUDA.
+        self.use_fp16 = str(self.device).startswith("cuda")
 
         # Try loading fine-tuned contrastive model
         if finetuned_dir and os.path.exists(os.path.join(finetuned_dir, "model.pt")):
@@ -110,17 +130,20 @@ class ReferenceEmbeddingExtractor:
 
             # Detect architecture version from config
             version = cfg.get("version", 1)
+            encoder_config = resolve_encoder_config(cfg["base_model"], finetuned_dir)
             if version >= 2:
                 self.model = ContrastiveWav2Vec2(
                     model_name=cfg["base_model"],
                     proj_dim=cfg["proj_dim"],
                     hidden_size=cfg["hidden_size"],
+                    encoder_config=encoder_config,
                 )
             else:
                 self.model = ContrastiveWav2Vec2V1(
                     model_name=cfg["base_model"],
                     proj_dim=cfg["proj_dim"],
                     hidden_size=cfg["hidden_size"],
+                    encoder_config=encoder_config,
                 )
 
             state_dict = torch.load(
@@ -134,18 +157,24 @@ class ReferenceEmbeddingExtractor:
             if missing or extras:
                 print(f"  load_state_dict missing={missing} unexpected={extras}")
             self.model.eval()
-            self.model.half()
+            if self.use_fp16:
+                self.model.half()
             self.model.to(self.device)
             self.use_finetuned = True
             self.embed_dim = cfg["proj_dim"]
-            print(f"Contrastive model loaded ({self.embed_dim}-dim, v{version})")
+            precision = "fp16" if self.use_fp16 else "fp32"
+            print(
+                f"Contrastive model loaded ({self.embed_dim}-dim, v{version}, "
+                f"{self.device}/{precision})"
+            )
         else:
             # Fallback: pretrained model (no fine-tuning)
             print(f"Loading pretrained {model_name}")
             self.processor = Wav2Vec2FeatureExtractor.from_pretrained(model_name)
             self.model = Wav2Vec2Model.from_pretrained(model_name)
             self.model.eval()
-            self.model.half()
+            if self.use_fp16:
+                self.model.half()
             self.model.to(self.device)
             self.embed_dim = self.model.config.hidden_size  # 768 or 1024
 
@@ -176,7 +205,10 @@ class ReferenceEmbeddingExtractor:
             return_tensors="pt",
             padding=True,
         )
-        return {k: v.to(self.device).half() if v.is_floating_point() else v.to(self.device)
+        # Input dtype must match the weight dtype (see use_fp16 in __init__).
+        return {k: v.to(self.device).half()
+                   if (self.use_fp16 and v.is_floating_point())
+                   else v.to(self.device)
                 for k, v in inputs.items()}
 
     @torch.no_grad()
