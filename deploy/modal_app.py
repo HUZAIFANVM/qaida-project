@@ -5,7 +5,7 @@ Two endpoints:
   GPU: https://huzaifa-karsaaz--qaida-scorer-fastapi-app.modal.run
   CPU: https://huzaifa-karsaaz--qaida-scorer-fastapi-app-cpu.modal.run
 
-Frontend tries GPU first (8s timeout), falls back to CPU automatically.
+Frontend tries GPU first (20s timeout), falls back to CPU automatically.
 Accuracy is identical on both — only speed differs.
 """
 
